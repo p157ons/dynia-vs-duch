@@ -1,0 +1,7 @@
+# Twoje dane i wyniki NIE trafiają do repozytorium (repo jest publiczne!)
+dane/*
+!dane/przyklad_sprzedaz.csv
+wyniki/
+__pycache__/
+.venv/
+.env

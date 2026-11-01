@@ -1,0 +1,1620 @@
+data,region,produkt,sztuki,cena_jedn,kanal
+2026-01-01,Pomorskie,Świeca zapachowa,11,34.5,sklep
+2026-01-01,Wielkopolskie,Dynia ozdobna,2,18.0,internet
+2026-01-01,Mazowieckie,Słodycze (zestaw),9,25.0,sklep
+2026-01-01,Mazowieckie,Dynia ozdobna,7,18.0,internet
+2026-01-01,Małopolskie,Dynia ozdobna,2,18.0,internet
+2026-01-02,Mazowieckie,Słodycze (zestaw),4,25.0,sklep
+2026-01-02,Wielkopolskie,Słodycze (zestaw),7,25.0,sklep
+2026-01-02,Mazowieckie,Świeca zapachowa,9,34.5,sklep
+2026-01-03,Małopolskie,Lampion,9,42.0,sklep
+2026-01-03,Śląskie,Słodycze (zestaw),9,25.0,sklep
+2026-01-03,Wielkopolskie,Dynia ozdobna,10,18.0,sklep
+2026-01-03,Mazowieckie,Kostium ducha,9,89.0,sklep
+2026-01-03,Mazowieckie,Słodycze (zestaw),10,25.0,sklep
+2026-01-04,Pomorskie,Słodycze (zestaw),6,25.0,internet
+2026-01-04,Pomorskie,Słodycze (zestaw),6,25.0,internet
+2026-01-04,Małopolskie,Świeca zapachowa,12,34.5,sklep
+2026-01-04,Wielkopolskie,Dynia ozdobna,5,18.0,internet
+2026-01-04,Pomorskie,Kostium ducha,5,89.0,sklep
+2026-01-04,Wielkopolskie,Dynia ozdobna,7,18.0,sklep
+2026-01-05,Pomorskie,Świeca zapachowa,7,34.5,sklep
+2026-01-05,Wielkopolskie,Dynia ozdobna,10,18.0,internet
+2026-01-05,Śląskie,Kostium ducha,10,89.0,internet
+2026-01-05,Pomorskie,Słodycze (zestaw),2,25.0,sklep
+2026-01-05,Pomorskie,Kostium ducha,12,89.0,sklep
+2026-01-06,Wielkopolskie,Kostium ducha,11,89.0,internet
+2026-01-06,Pomorskie,Kostium ducha,11,89.0,internet
+2026-01-06,Pomorskie,Dynia ozdobna,6,18.0,sklep
+2026-01-07,Pomorskie,Dynia ozdobna,1,18.0,sklep
+2026-01-07,Małopolskie,Kostium ducha,12,89.0,sklep
+2026-01-07,Pomorskie,Lampion,8,42.0,sklep
+2026-01-07,Pomorskie,Świeca zapachowa,7,34.5,internet
+2026-01-07,Pomorskie,Świeca zapachowa,9,34.5,internet
+2026-01-07,Śląskie,Lampion,11,42.0,internet
+2026-01-07,Małopolskie,Świeca zapachowa,2,34.5,sklep
+2026-01-08,Małopolskie,Świeca zapachowa,1,34.5,internet
+2026-01-08,Małopolskie,Słodycze (zestaw),5,25.0,internet
+2026-01-08,Małopolskie,Dynia ozdobna,7,18.0,internet
+2026-01-08,Wielkopolskie,Słodycze (zestaw),6,25.0,sklep
+2026-01-09,Wielkopolskie,Słodycze (zestaw),11,25.0,sklep
+2026-01-09,Wielkopolskie,Lampion,7,42.0,internet
+2026-01-09,Pomorskie,Lampion,2,42.0,internet
+2026-01-09,Mazowieckie,Lampion,4,42.0,sklep
+2026-01-09,Pomorskie,Świeca zapachowa,3,34.5,sklep
+2026-01-09,Wielkopolskie,Kostium ducha,1,89.0,sklep
+2026-01-09,Wielkopolskie,Dynia ozdobna,3,18.0,sklep
+2026-01-09,Wielkopolskie,Kostium ducha,1,89.0,sklep
+2026-01-10,Pomorskie,Słodycze (zestaw),3,25.0,internet
+2026-01-10,Wielkopolskie,Kostium ducha,6,89.0,internet
+2026-01-10,Mazowieckie,Dynia ozdobna,8,18.0,internet
+2026-01-10,Pomorskie,Lampion,5,42.0,sklep
+2026-01-11,Śląskie,Dynia ozdobna,12,18.0,internet
+2026-01-11,Małopolskie,Lampion,9,42.0,sklep
+2026-01-11,Wielkopolskie,Świeca zapachowa,6,34.5,sklep
+2026-01-11,Mazowieckie,Słodycze (zestaw),9,25.0,internet
+2026-01-12,Śląskie,Dynia ozdobna,9,18.0,internet
+2026-01-12,Śląskie,Świeca zapachowa,4,34.5,internet
+2026-01-12,Wielkopolskie,Świeca zapachowa,4,34.5,sklep
+2026-01-12,Małopolskie,Lampion,4,42.0,internet
+2026-01-12,Mazowieckie,Kostium ducha,1,89.0,internet
+2026-01-12,Śląskie,Lampion,4,42.0,internet
+2026-01-12,Śląskie,Lampion,6,42.0,sklep
+2026-01-12,Mazowieckie,Świeca zapachowa,4,34.5,internet
+2026-01-13,Małopolskie,Kostium ducha,8,89.0,sklep
+2026-01-13,Śląskie,Lampion,11,42.0,sklep
+2026-01-13,Pomorskie,Dynia ozdobna,12,18.0,sklep
+2026-01-13,Małopolskie,Lampion,7,42.0,internet
+2026-01-14,Pomorskie,Lampion,7,42.0,sklep
+2026-01-14,Małopolskie,Świeca zapachowa,3,34.5,sklep
+2026-01-14,Wielkopolskie,Świeca zapachowa,8,34.5,sklep
+2026-01-15,Pomorskie,Słodycze (zestaw),11,25.0,internet
+2026-01-15,Wielkopolskie,Świeca zapachowa,9,34.5,sklep
+2026-01-15,Mazowieckie,Dynia ozdobna,12,18.0,sklep
+2026-01-15,Małopolskie,Słodycze (zestaw),7,25.0,sklep
+2026-01-15,Mazowieckie,Świeca zapachowa,5,34.5,sklep
+2026-01-15,Wielkopolskie,Kostium ducha,4,89.0,internet
+2026-01-15,Wielkopolskie,Kostium ducha,7,89.0,sklep
+2026-01-16,Pomorskie,Kostium ducha,11,89.0,internet
+2026-01-16,Małopolskie,Słodycze (zestaw),9,25.0,sklep
+2026-01-16,Wielkopolskie,Słodycze (zestaw),1,25.0,internet
+2026-01-17,Mazowieckie,Słodycze (zestaw),3,25.0,sklep
+2026-01-17,Pomorskie,Świeca zapachowa,10,34.5,sklep
+2026-01-17,Mazowieckie,Słodycze (zestaw),6,25.0,internet
+2026-01-17,Wielkopolskie,Dynia ozdobna,1,18.0,sklep
+2026-01-18,Mazowieckie,Kostium ducha,2,89.0,internet
+2026-01-18,Mazowieckie,Słodycze (zestaw),2,25.0,internet
+2026-01-18,Wielkopolskie,Kostium ducha,9,89.0,sklep
+2026-01-18,Pomorskie,Kostium ducha,9,89.0,internet
+2026-01-19,Wielkopolskie,Świeca zapachowa,5,34.5,sklep
+2026-01-19,Małopolskie,Lampion,7,42.0,sklep
+2026-01-19,Pomorskie,Lampion,6,42.0,sklep
+2026-01-19,Pomorskie,Świeca zapachowa,2,34.5,sklep
+2026-01-19,Mazowieckie,Kostium ducha,3,89.0,internet
+2026-01-19,Śląskie,Świeca zapachowa,3,34.5,internet
+2026-01-19,Mazowieckie,Świeca zapachowa,7,34.5,internet
+2026-01-20,Małopolskie,Świeca zapachowa,12,34.5,internet
+2026-01-20,Pomorskie,Słodycze (zestaw),6,25.0,internet
+2026-01-20,Śląskie,Świeca zapachowa,6,34.5,sklep
+2026-01-20,Mazowieckie,Kostium ducha,6,89.0,internet
+2026-01-21,Pomorskie,Dynia ozdobna,6,18.0,internet
+2026-01-21,Mazowieckie,Słodycze (zestaw),2,25.0,sklep
+2026-01-21,Mazowieckie,Dynia ozdobna,5,18.0,internet
+2026-01-21,Małopolskie,Dynia ozdobna,5,18.0,sklep
+2026-01-21,Śląskie,Lampion,7,42.0,sklep
+2026-01-21,Wielkopolskie,Słodycze (zestaw),10,25.0,internet
+2026-01-22,Mazowieckie,Kostium ducha,5,89.0,sklep
+2026-01-22,Pomorskie,Świeca zapachowa,2,34.5,internet
+2026-01-22,Mazowieckie,Dynia ozdobna,5,18.0,sklep
+2026-01-22,Małopolskie,Słodycze (zestaw),2,25.0,internet
+2026-01-22,Pomorskie,Dynia ozdobna,1,18.0,internet
+2026-01-22,Pomorskie,Słodycze (zestaw),5,25.0,sklep
+2026-01-22,Wielkopolskie,Dynia ozdobna,12,18.0,sklep
+2026-01-22,Małopolskie,Dynia ozdobna,5,18.0,sklep
+2026-01-23,Śląskie,Świeca zapachowa,11,34.5,internet
+2026-01-23,Małopolskie,Słodycze (zestaw),5,25.0,internet
+2026-01-23,Małopolskie,Słodycze (zestaw),5,25.0,internet
+2026-01-23,Śląskie,Dynia ozdobna,1,18.0,sklep
+2026-01-24,Wielkopolskie,Słodycze (zestaw),4,25.0,internet
+2026-01-24,Pomorskie,Świeca zapachowa,2,34.5,internet
+2026-01-24,Wielkopolskie,Lampion,7,42.0,internet
+2026-01-25,Małopolskie,Świeca zapachowa,6,34.5,sklep
+2026-01-25,Pomorskie,Świeca zapachowa,6,34.5,sklep
+2026-01-25,Mazowieckie,Świeca zapachowa,2,34.5,internet
+2026-01-25,Małopolskie,Lampion,1,42.0,sklep
+2026-01-25,Wielkopolskie,Lampion,11,42.0,internet
+2026-01-25,Małopolskie,Słodycze (zestaw),12,25.0,internet
+2026-01-25,Pomorskie,Dynia ozdobna,3,18.0,sklep
+2026-01-25,Pomorskie,Kostium ducha,1,89.0,internet
+2026-01-26,Wielkopolskie,Kostium ducha,6,89.0,sklep
+2026-01-26,Śląskie,Dynia ozdobna,4,18.0,internet
+2026-01-26,Mazowieckie,Świeca zapachowa,6,34.5,internet
+2026-01-26,Pomorskie,Dynia ozdobna,5,18.0,sklep
+2026-01-26,Wielkopolskie,Świeca zapachowa,1,34.5,sklep
+2026-01-27,Małopolskie,Dynia ozdobna,7,18.0,sklep
+2026-01-27,Mazowieckie,Lampion,5,42.0,internet
+2026-01-27,Mazowieckie,Świeca zapachowa,10,34.5,sklep
+2026-01-27,Pomorskie,Słodycze (zestaw),6,25.0,internet
+2026-01-27,Śląskie,Świeca zapachowa,12,34.5,sklep
+2026-01-28,Pomorskie,Słodycze (zestaw),12,25.0,sklep
+2026-01-28,Wielkopolskie,Słodycze (zestaw),10,25.0,sklep
+2026-01-28,Małopolskie,Słodycze (zestaw),2,25.0,sklep
+2026-01-29,Śląskie,Świeca zapachowa,2,34.5,internet
+2026-01-29,Wielkopolskie,Lampion,1,42.0,sklep
+2026-01-29,Małopolskie,Słodycze (zestaw),8,25.0,internet
+2026-01-30,Mazowieckie,Lampion,12,42.0,sklep
+2026-01-30,Mazowieckie,Słodycze (zestaw),12,25.0,internet
+2026-01-30,Mazowieckie,Kostium ducha,5,89.0,sklep
+2026-01-31,Małopolskie,Świeca zapachowa,12,34.5,internet
+2026-01-31,Pomorskie,Lampion,2,42.0,internet
+2026-01-31,Mazowieckie,Kostium ducha,10,89.0,sklep
+2026-01-31,Wielkopolskie,Dynia ozdobna,3,18.0,internet
+2026-01-31,Śląskie,Kostium ducha,10,89.0,sklep
+2026-01-31,Pomorskie,Dynia ozdobna,1,18.0,internet
+2026-01-31,Mazowieckie,Kostium ducha,12,89.0,sklep
+2026-01-31,Śląskie,Lampion,12,42.0,internet
+2026-02-01,Pomorskie,Lampion,2,42.0,sklep
+2026-02-01,Mazowieckie,Kostium ducha,8,89.0,sklep
+2026-02-01,Pomorskie,Kostium ducha,2,89.0,internet
+2026-02-01,Pomorskie,Kostium ducha,4,89.0,sklep
+2026-02-01,Wielkopolskie,Dynia ozdobna,2,18.0,sklep
+2026-02-01,Śląskie,Słodycze (zestaw),6,25.0,sklep
+2026-02-02,Śląskie,Słodycze (zestaw),2,25.0,internet
+2026-02-02,Pomorskie,Świeca zapachowa,8,34.5,internet
+2026-02-02,Małopolskie,Dynia ozdobna,1,18.0,internet
+2026-02-02,Pomorskie,Lampion,5,42.0,sklep
+2026-02-02,Śląskie,Lampion,7,42.0,internet
+2026-02-02,Śląskie,Dynia ozdobna,1,18.0,internet
+2026-02-02,Pomorskie,Kostium ducha,2,89.0,sklep
+2026-02-03,Śląskie,Dynia ozdobna,5,18.0,internet
+2026-02-03,Pomorskie,Dynia ozdobna,7,18.0,sklep
+2026-02-03,Pomorskie,Kostium ducha,5,89.0,sklep
+2026-02-03,Mazowieckie,Kostium ducha,1,89.0,internet
+2026-02-03,Małopolskie,Świeca zapachowa,5,34.5,internet
+2026-02-03,Śląskie,Słodycze (zestaw),4,25.0,internet
+2026-02-03,Mazowieckie,Lampion,11,42.0,internet
+2026-02-03,Wielkopolskie,Słodycze (zestaw),4,25.0,sklep
+2026-02-04,Pomorskie,Lampion,10,42.0,sklep
+2026-02-04,Pomorskie,Kostium ducha,1,89.0,sklep
+2026-02-04,Pomorskie,Świeca zapachowa,7,34.5,internet
+2026-02-05,Śląskie,Kostium ducha,12,89.0,internet
+2026-02-05,Małopolskie,Lampion,5,42.0,internet
+2026-02-05,Pomorskie,Słodycze (zestaw),2,25.0,sklep
+2026-02-05,Mazowieckie,Świeca zapachowa,4,34.5,internet
+2026-02-05,Małopolskie,Słodycze (zestaw),8,25.0,internet
+2026-02-06,Małopolskie,Lampion,9,42.0,sklep
+2026-02-06,Mazowieckie,Świeca zapachowa,3,34.5,internet
+2026-02-06,Mazowieckie,Słodycze (zestaw),6,25.0,sklep
+2026-02-06,Śląskie,Kostium ducha,10,89.0,sklep
+2026-02-06,Pomorskie,Dynia ozdobna,7,18.0,internet
+2026-02-06,Małopolskie,Słodycze (zestaw),7,25.0,internet
+2026-02-07,Pomorskie,Dynia ozdobna,5,18.0,internet
+2026-02-07,Wielkopolskie,Świeca zapachowa,9,34.5,sklep
+2026-02-07,Śląskie,Dynia ozdobna,4,18.0,internet
+2026-02-07,Pomorskie,Lampion,7,42.0,internet
+2026-02-07,Małopolskie,Dynia ozdobna,1,18.0,internet
+2026-02-08,Wielkopolskie,Lampion,8,42.0,sklep
+2026-02-08,Pomorskie,Dynia ozdobna,9,18.0,internet
+2026-02-08,Małopolskie,Lampion,2,42.0,sklep
+2026-02-08,Małopolskie,Świeca zapachowa,9,34.5,sklep
+2026-02-08,Mazowieckie,Lampion,9,42.0,sklep
+2026-02-08,Małopolskie,Dynia ozdobna,4,18.0,sklep
+2026-02-08,Małopolskie,Kostium ducha,11,89.0,internet
+2026-02-08,Pomorskie,Słodycze (zestaw),12,25.0,sklep
+2026-02-09,Śląskie,Dynia ozdobna,9,18.0,sklep
+2026-02-09,Śląskie,Lampion,4,42.0,sklep
+2026-02-09,Wielkopolskie,Dynia ozdobna,5,18.0,internet
+2026-02-10,Małopolskie,Kostium ducha,8,89.0,sklep
+2026-02-10,Małopolskie,Słodycze (zestaw),1,25.0,internet
+2026-02-10,Mazowieckie,Kostium ducha,1,89.0,sklep
+2026-02-10,Pomorskie,Lampion,2,42.0,internet
+2026-02-10,Pomorskie,Świeca zapachowa,6,34.5,sklep
+2026-02-11,Śląskie,Dynia ozdobna,12,18.0,internet
+2026-02-11,Pomorskie,Kostium ducha,4,89.0,sklep
+2026-02-11,Wielkopolskie,Kostium ducha,2,89.0,sklep
+2026-02-11,Małopolskie,Lampion,5,42.0,sklep
+2026-02-11,Pomorskie,Świeca zapachowa,4,34.5,internet
+2026-02-11,Mazowieckie,Kostium ducha,10,89.0,internet
+2026-02-12,Małopolskie,Świeca zapachowa,8,34.5,internet
+2026-02-12,Wielkopolskie,Dynia ozdobna,3,18.0,internet
+2026-02-12,Małopolskie,Dynia ozdobna,1,18.0,sklep
+2026-02-12,Mazowieckie,Lampion,12,42.0,sklep
+2026-02-12,Pomorskie,Świeca zapachowa,8,34.5,internet
+2026-02-12,Mazowieckie,Dynia ozdobna,3,18.0,internet
+2026-02-12,Małopolskie,Świeca zapachowa,11,34.5,internet
+2026-02-13,Pomorskie,Kostium ducha,6,89.0,internet
+2026-02-13,Małopolskie,Lampion,2,42.0,sklep
+2026-02-13,Śląskie,Dynia ozdobna,2,18.0,internet
+2026-02-14,Wielkopolskie,Dynia ozdobna,4,18.0,internet
+2026-02-14,Śląskie,Kostium ducha,7,89.0,sklep
+2026-02-14,Pomorskie,Dynia ozdobna,4,18.0,internet
+2026-02-14,Pomorskie,Słodycze (zestaw),4,25.0,internet
+2026-02-14,Pomorskie,Kostium ducha,1,89.0,internet
+2026-02-14,Pomorskie,Świeca zapachowa,1,34.5,internet
+2026-02-15,Mazowieckie,Lampion,1,42.0,internet
+2026-02-15,Mazowieckie,Świeca zapachowa,10,34.5,internet
+2026-02-15,Śląskie,Kostium ducha,6,89.0,sklep
+2026-02-16,Śląskie,Kostium ducha,5,89.0,sklep
+2026-02-16,Mazowieckie,Słodycze (zestaw),1,25.0,sklep
+2026-02-16,Pomorskie,Dynia ozdobna,12,18.0,internet
+2026-02-16,Śląskie,Lampion,7,42.0,internet
+2026-02-16,Pomorskie,Świeca zapachowa,3,34.5,sklep
+2026-02-17,Małopolskie,Kostium ducha,10,89.0,sklep
+2026-02-17,Śląskie,Kostium ducha,8,89.0,internet
+2026-02-17,Mazowieckie,Słodycze (zestaw),9,25.0,sklep
+2026-02-17,Małopolskie,Lampion,4,42.0,internet
+2026-02-17,Mazowieckie,Dynia ozdobna,8,18.0,internet
+2026-02-17,Pomorskie,Świeca zapachowa,2,34.5,sklep
+2026-02-17,Wielkopolskie,Kostium ducha,2,89.0,sklep
+2026-02-17,Pomorskie,Dynia ozdobna,8,18.0,internet
+2026-02-18,Małopolskie,Świeca zapachowa,7,34.5,internet
+2026-02-18,Małopolskie,Słodycze (zestaw),12,25.0,sklep
+2026-02-18,Śląskie,Kostium ducha,5,89.0,internet
+2026-02-18,Śląskie,Kostium ducha,12,89.0,internet
+2026-02-19,Małopolskie,Lampion,3,42.0,sklep
+2026-02-19,Małopolskie,Świeca zapachowa,5,34.5,sklep
+2026-02-19,Mazowieckie,Kostium ducha,7,89.0,internet
+2026-02-19,Wielkopolskie,Świeca zapachowa,9,34.5,sklep
+2026-02-20,Pomorskie,Dynia ozdobna,1,18.0,sklep
+2026-02-20,Pomorskie,Dynia ozdobna,4,18.0,internet
+2026-02-20,Mazowieckie,Kostium ducha,5,89.0,sklep
+2026-02-20,Mazowieckie,Dynia ozdobna,4,18.0,sklep
+2026-02-20,Śląskie,Dynia ozdobna,9,18.0,sklep
+2026-02-20,Wielkopolskie,Lampion,5,42.0,sklep
+2026-02-20,Wielkopolskie,Dynia ozdobna,12,18.0,internet
+2026-02-20,Mazowieckie,Świeca zapachowa,6,34.5,internet
+2026-02-21,Małopolskie,Dynia ozdobna,5,18.0,sklep
+2026-02-21,Małopolskie,Słodycze (zestaw),1,25.0,internet
+2026-02-21,Śląskie,Lampion,3,42.0,internet
+2026-02-21,Małopolskie,Dynia ozdobna,1,18.0,internet
+2026-02-22,Mazowieckie,Lampion,7,42.0,sklep
+2026-02-22,Wielkopolskie,Lampion,3,42.0,sklep
+2026-02-22,Pomorskie,Świeca zapachowa,12,34.5,internet
+2026-02-22,Śląskie,Lampion,11,42.0,internet
+2026-02-22,Mazowieckie,Lampion,5,42.0,internet
+2026-02-22,Pomorskie,Lampion,1,42.0,internet
+2026-02-22,Pomorskie,Świeca zapachowa,12,34.5,internet
+2026-02-23,Pomorskie,Dynia ozdobna,3,18.0,internet
+2026-02-23,Mazowieckie,Dynia ozdobna,7,18.0,internet
+2026-02-23,Małopolskie,Lampion,3,42.0,sklep
+2026-02-23,Wielkopolskie,Dynia ozdobna,3,18.0,internet
+2026-02-24,Wielkopolskie,Słodycze (zestaw),6,25.0,sklep
+2026-02-24,Śląskie,Świeca zapachowa,5,34.5,sklep
+2026-02-24,Małopolskie,Słodycze (zestaw),2,25.0,sklep
+2026-02-25,Małopolskie,Lampion,5,42.0,sklep
+2026-02-25,Pomorskie,Dynia ozdobna,6,18.0,sklep
+2026-02-25,Pomorskie,Słodycze (zestaw),2,25.0,sklep
+2026-02-25,Wielkopolskie,Świeca zapachowa,7,34.5,sklep
+2026-02-25,Małopolskie,Lampion,10,42.0,sklep
+2026-02-25,Pomorskie,Dynia ozdobna,9,18.0,sklep
+2026-02-26,Mazowieckie,Kostium ducha,3,89.0,sklep
+2026-02-26,Mazowieckie,Świeca zapachowa,9,34.5,sklep
+2026-02-26,Mazowieckie,Kostium ducha,7,89.0,internet
+2026-02-26,Śląskie,Słodycze (zestaw),11,25.0,internet
+2026-02-26,Wielkopolskie,Kostium ducha,4,89.0,internet
+2026-02-26,Śląskie,Lampion,8,42.0,internet
+2026-02-27,Mazowieckie,Dynia ozdobna,10,18.0,internet
+2026-02-27,Małopolskie,Lampion,8,42.0,internet
+2026-02-27,Pomorskie,Świeca zapachowa,7,34.5,sklep
+2026-02-27,Małopolskie,Dynia ozdobna,6,18.0,internet
+2026-02-28,Pomorskie,Dynia ozdobna,9,18.0,sklep
+2026-02-28,Małopolskie,Dynia ozdobna,2,18.0,internet
+2026-02-28,Mazowieckie,Słodycze (zestaw),1,25.0,internet
+2026-02-28,Mazowieckie,Świeca zapachowa,2,34.5,sklep
+2026-02-28,Małopolskie,Świeca zapachowa,8,34.5,internet
+2026-03-01,Mazowieckie,Świeca zapachowa,6,34.5,internet
+2026-03-01,Śląskie,Świeca zapachowa,10,34.5,internet
+2026-03-01,Małopolskie,Lampion,5,42.0,internet
+2026-03-01,Wielkopolskie,Świeca zapachowa,5,34.5,sklep
+2026-03-02,Mazowieckie,Kostium ducha,4,89.0,sklep
+2026-03-02,Małopolskie,Lampion,11,42.0,internet
+2026-03-02,Pomorskie,Kostium ducha,3,89.0,internet
+2026-03-02,Wielkopolskie,Dynia ozdobna,1,18.0,internet
+2026-03-02,Wielkopolskie,Lampion,9,42.0,sklep
+2026-03-03,Pomorskie,Słodycze (zestaw),12,25.0,internet
+2026-03-03,Pomorskie,Kostium ducha,6,89.0,sklep
+2026-03-03,Śląskie,Kostium ducha,2,89.0,internet
+2026-03-03,Małopolskie,Świeca zapachowa,10,34.5,sklep
+2026-03-03,Wielkopolskie,Kostium ducha,5,89.0,internet
+2026-03-04,Śląskie,Słodycze (zestaw),12,25.0,sklep
+2026-03-04,Małopolskie,Dynia ozdobna,3,18.0,internet
+2026-03-04,Pomorskie,Słodycze (zestaw),7,25.0,internet
+2026-03-04,Małopolskie,Dynia ozdobna,8,18.0,sklep
+2026-03-04,Mazowieckie,Słodycze (zestaw),1,25.0,sklep
+2026-03-04,Wielkopolskie,Dynia ozdobna,6,18.0,internet
+2026-03-04,Wielkopolskie,Dynia ozdobna,6,18.0,sklep
+2026-03-04,Wielkopolskie,Lampion,5,42.0,sklep
+2026-03-05,Wielkopolskie,Kostium ducha,8,89.0,sklep
+2026-03-05,Mazowieckie,Świeca zapachowa,4,34.5,sklep
+2026-03-05,Mazowieckie,Lampion,2,42.0,sklep
+2026-03-05,Pomorskie,Kostium ducha,5,89.0,sklep
+2026-03-06,Śląskie,Słodycze (zestaw),10,25.0,internet
+2026-03-06,Wielkopolskie,Słodycze (zestaw),12,25.0,internet
+2026-03-06,Małopolskie,Świeca zapachowa,1,34.5,sklep
+2026-03-07,Mazowieckie,Słodycze (zestaw),7,25.0,sklep
+2026-03-07,Małopolskie,Świeca zapachowa,1,34.5,sklep
+2026-03-07,Wielkopolskie,Dynia ozdobna,9,18.0,sklep
+2026-03-08,Małopolskie,Lampion,9,42.0,internet
+2026-03-08,Małopolskie,Słodycze (zestaw),9,25.0,internet
+2026-03-08,Śląskie,Dynia ozdobna,11,18.0,sklep
+2026-03-08,Wielkopolskie,Lampion,1,42.0,internet
+2026-03-09,Mazowieckie,Lampion,12,42.0,internet
+2026-03-09,Małopolskie,Świeca zapachowa,2,34.5,internet
+2026-03-09,Mazowieckie,Świeca zapachowa,2,34.5,internet
+2026-03-09,Mazowieckie,Kostium ducha,5,89.0,internet
+2026-03-09,Śląskie,Słodycze (zestaw),5,25.0,sklep
+2026-03-09,Wielkopolskie,Dynia ozdobna,1,18.0,sklep
+2026-03-10,Małopolskie,Świeca zapachowa,3,34.5,internet
+2026-03-10,Pomorskie,Świeca zapachowa,6,34.5,sklep
+2026-03-10,Wielkopolskie,Lampion,8,42.0,internet
+2026-03-10,Mazowieckie,Słodycze (zestaw),1,25.0,internet
+2026-03-10,Wielkopolskie,Świeca zapachowa,5,34.5,sklep
+2026-03-11,Wielkopolskie,Słodycze (zestaw),2,25.0,sklep
+2026-03-11,Mazowieckie,Świeca zapachowa,1,34.5,sklep
+2026-03-11,Wielkopolskie,Dynia ozdobna,3,18.0,internet
+2026-03-11,Mazowieckie,Świeca zapachowa,1,34.5,sklep
+2026-03-11,Mazowieckie,Świeca zapachowa,12,34.5,sklep
+2026-03-11,Mazowieckie,Dynia ozdobna,10,18.0,internet
+2026-03-12,Mazowieckie,Słodycze (zestaw),12,25.0,internet
+2026-03-12,Małopolskie,Dynia ozdobna,4,18.0,sklep
+2026-03-12,Mazowieckie,Dynia ozdobna,1,18.0,sklep
+2026-03-12,Pomorskie,Kostium ducha,2,89.0,sklep
+2026-03-13,Śląskie,Świeca zapachowa,6,34.5,internet
+2026-03-13,Śląskie,Lampion,1,42.0,internet
+2026-03-13,Śląskie,Kostium ducha,1,89.0,internet
+2026-03-14,Wielkopolskie,Słodycze (zestaw),8,25.0,internet
+2026-03-14,Mazowieckie,Słodycze (zestaw),7,25.0,sklep
+2026-03-14,Wielkopolskie,Lampion,2,42.0,internet
+2026-03-14,Mazowieckie,Lampion,9,42.0,sklep
+2026-03-14,Wielkopolskie,Dynia ozdobna,5,18.0,sklep
+2026-03-15,Wielkopolskie,Dynia ozdobna,4,18.0,internet
+2026-03-15,Mazowieckie,Dynia ozdobna,6,18.0,internet
+2026-03-15,Pomorskie,Dynia ozdobna,12,18.0,sklep
+2026-03-15,Wielkopolskie,Lampion,6,42.0,internet
+2026-03-15,Małopolskie,Słodycze (zestaw),5,25.0,sklep
+2026-03-15,Pomorskie,Świeca zapachowa,3,34.5,sklep
+2026-03-16,Pomorskie,Dynia ozdobna,12,18.0,sklep
+2026-03-16,Śląskie,Kostium ducha,2,89.0,internet
+2026-03-16,Mazowieckie,Lampion,7,42.0,sklep
+2026-03-16,Małopolskie,Kostium ducha,5,89.0,internet
+2026-03-16,Wielkopolskie,Lampion,9,42.0,sklep
+2026-03-16,Małopolskie,Lampion,8,42.0,sklep
+2026-03-16,Wielkopolskie,Słodycze (zestaw),12,25.0,sklep
+2026-03-16,Wielkopolskie,Kostium ducha,6,89.0,sklep
+2026-03-17,Śląskie,Słodycze (zestaw),3,25.0,internet
+2026-03-17,Śląskie,Lampion,10,42.0,sklep
+2026-03-17,Śląskie,Świeca zapachowa,8,34.5,sklep
+2026-03-17,Małopolskie,Słodycze (zestaw),5,25.0,internet
+2026-03-17,Małopolskie,Słodycze (zestaw),12,25.0,sklep
+2026-03-17,Śląskie,Świeca zapachowa,10,34.5,internet
+2026-03-18,Śląskie,Świeca zapachowa,4,34.5,internet
+2026-03-18,Małopolskie,Dynia ozdobna,11,18.0,sklep
+2026-03-18,Pomorskie,Świeca zapachowa,3,34.5,sklep
+2026-03-18,Śląskie,Kostium ducha,7,89.0,internet
+2026-03-19,Mazowieckie,Dynia ozdobna,5,18.0,sklep
+2026-03-19,Pomorskie,Lampion,1,42.0,sklep
+2026-03-19,Pomorskie,Lampion,12,42.0,sklep
+2026-03-19,Śląskie,Słodycze (zestaw),8,25.0,sklep
+2026-03-20,Wielkopolskie,Kostium ducha,12,89.0,internet
+2026-03-20,Małopolskie,Dynia ozdobna,7,18.0,internet
+2026-03-20,Wielkopolskie,Świeca zapachowa,4,34.5,sklep
+2026-03-20,Pomorskie,Dynia ozdobna,7,18.0,internet
+2026-03-21,Pomorskie,Dynia ozdobna,4,18.0,internet
+2026-03-21,Śląskie,Świeca zapachowa,7,34.5,internet
+2026-03-21,Mazowieckie,Lampion,10,42.0,internet
+2026-03-21,Małopolskie,Słodycze (zestaw),11,25.0,internet
+2026-03-21,Pomorskie,Dynia ozdobna,8,18.0,sklep
+2026-03-22,Wielkopolskie,Kostium ducha,4,89.0,sklep
+2026-03-22,Wielkopolskie,Świeca zapachowa,6,34.5,sklep
+2026-03-22,Pomorskie,Słodycze (zestaw),9,25.0,sklep
+2026-03-23,Wielkopolskie,Lampion,1,42.0,internet
+2026-03-23,Śląskie,Słodycze (zestaw),7,25.0,internet
+2026-03-23,Małopolskie,Świeca zapachowa,7,34.5,sklep
+2026-03-23,Śląskie,Słodycze (zestaw),11,25.0,sklep
+2026-03-23,Śląskie,Kostium ducha,7,89.0,internet
+2026-03-23,Mazowieckie,Dynia ozdobna,2,18.0,internet
+2026-03-23,Śląskie,Lampion,10,42.0,internet
+2026-03-23,Małopolskie,Dynia ozdobna,5,18.0,internet
+2026-03-24,Pomorskie,Świeca zapachowa,8,34.5,sklep
+2026-03-24,Małopolskie,Świeca zapachowa,2,34.5,sklep
+2026-03-24,Wielkopolskie,Lampion,12,42.0,sklep
+2026-03-24,Śląskie,Świeca zapachowa,11,34.5,internet
+2026-03-24,Śląskie,Lampion,9,42.0,sklep
+2026-03-24,Śląskie,Lampion,4,42.0,internet
+2026-03-24,Śląskie,Lampion,7,42.0,sklep
+2026-03-25,Śląskie,Dynia ozdobna,6,18.0,sklep
+2026-03-25,Śląskie,Kostium ducha,8,89.0,internet
+2026-03-25,Wielkopolskie,Lampion,11,42.0,sklep
+2026-03-25,Małopolskie,Kostium ducha,5,89.0,internet
+2026-03-25,Mazowieckie,Dynia ozdobna,10,18.0,internet
+2026-03-25,Wielkopolskie,Świeca zapachowa,6,34.5,sklep
+2026-03-26,Małopolskie,Dynia ozdobna,2,18.0,internet
+2026-03-26,Wielkopolskie,Kostium ducha,2,89.0,sklep
+2026-03-26,Małopolskie,Świeca zapachowa,8,34.5,internet
+2026-03-26,Małopolskie,Świeca zapachowa,7,34.5,sklep
+2026-03-26,Wielkopolskie,Słodycze (zestaw),2,25.0,internet
+2026-03-26,Pomorskie,Świeca zapachowa,12,34.5,sklep
+2026-03-26,Mazowieckie,Słodycze (zestaw),12,25.0,internet
+2026-03-26,Wielkopolskie,Dynia ozdobna,2,18.0,internet
+2026-03-27,Małopolskie,Świeca zapachowa,8,34.5,internet
+2026-03-27,Mazowieckie,Słodycze (zestaw),8,25.0,internet
+2026-03-27,Pomorskie,Świeca zapachowa,4,34.5,internet
+2026-03-27,Wielkopolskie,Świeca zapachowa,10,34.5,sklep
+2026-03-27,Śląskie,Świeca zapachowa,8,34.5,internet
+2026-03-27,Pomorskie,Kostium ducha,6,89.0,internet
+2026-03-28,Małopolskie,Dynia ozdobna,11,18.0,internet
+2026-03-28,Mazowieckie,Dynia ozdobna,10,18.0,sklep
+2026-03-28,Mazowieckie,Kostium ducha,9,89.0,internet
+2026-03-28,Małopolskie,Lampion,1,42.0,sklep
+2026-03-28,Małopolskie,Lampion,6,42.0,sklep
+2026-03-28,Śląskie,Kostium ducha,8,89.0,sklep
+2026-03-29,Śląskie,Lampion,7,42.0,internet
+2026-03-29,Mazowieckie,Słodycze (zestaw),5,25.0,internet
+2026-03-29,Pomorskie,Kostium ducha,7,89.0,internet
+2026-03-29,Śląskie,Słodycze (zestaw),9,25.0,internet
+2026-03-29,Pomorskie,Świeca zapachowa,2,34.5,internet
+2026-03-30,Śląskie,Kostium ducha,3,89.0,sklep
+2026-03-30,Pomorskie,Dynia ozdobna,12,18.0,internet
+2026-03-30,Wielkopolskie,Słodycze (zestaw),1,25.0,internet
+2026-03-30,Mazowieckie,Kostium ducha,1,89.0,sklep
+2026-03-31,Wielkopolskie,Lampion,11,42.0,sklep
+2026-03-31,Wielkopolskie,Słodycze (zestaw),10,25.0,internet
+2026-03-31,Małopolskie,Słodycze (zestaw),11,25.0,sklep
+2026-03-31,Mazowieckie,Świeca zapachowa,11,34.5,internet
+2026-04-01,Mazowieckie,Świeca zapachowa,11,34.5,sklep
+2026-04-01,Pomorskie,Dynia ozdobna,2,18.0,sklep
+2026-04-01,Małopolskie,Kostium ducha,5,89.0,internet
+2026-04-01,Małopolskie,Kostium ducha,7,89.0,sklep
+2026-04-01,Mazowieckie,Kostium ducha,7,89.0,sklep
+2026-04-01,Wielkopolskie,Lampion,9,42.0,sklep
+2026-04-01,Pomorskie,Dynia ozdobna,10,18.0,internet
+2026-04-01,Mazowieckie,Lampion,1,42.0,internet
+2026-04-02,Małopolskie,Słodycze (zestaw),8,25.0,internet
+2026-04-02,Mazowieckie,Słodycze (zestaw),2,25.0,internet
+2026-04-02,Małopolskie,Świeca zapachowa,11,34.5,sklep
+2026-04-02,Mazowieckie,Lampion,1,42.0,sklep
+2026-04-02,Małopolskie,Dynia ozdobna,2,18.0,sklep
+2026-04-02,Mazowieckie,Lampion,5,42.0,sklep
+2026-04-02,Małopolskie,Lampion,1,42.0,internet
+2026-04-03,Mazowieckie,Świeca zapachowa,5,34.5,internet
+2026-04-03,Śląskie,Lampion,1,42.0,sklep
+2026-04-03,Mazowieckie,Dynia ozdobna,1,18.0,sklep
+2026-04-03,Śląskie,Lampion,5,42.0,sklep
+2026-04-03,Wielkopolskie,Lampion,1,42.0,internet
+2026-04-03,Wielkopolskie,Kostium ducha,12,89.0,internet
+2026-04-03,Małopolskie,Lampion,3,42.0,sklep
+2026-04-03,Małopolskie,Kostium ducha,11,89.0,internet
+2026-04-04,Pomorskie,Lampion,5,42.0,internet
+2026-04-04,Śląskie,Kostium ducha,1,89.0,internet
+2026-04-04,Mazowieckie,Słodycze (zestaw),3,25.0,internet
+2026-04-04,Pomorskie,Słodycze (zestaw),4,25.0,internet
+2026-04-04,Pomorskie,Lampion,10,42.0,sklep
+2026-04-04,Śląskie,Lampion,12,42.0,sklep
+2026-04-05,Śląskie,Kostium ducha,7,89.0,sklep
+2026-04-05,Mazowieckie,Słodycze (zestaw),5,25.0,sklep
+2026-04-05,Małopolskie,Słodycze (zestaw),5,25.0,internet
+2026-04-05,Wielkopolskie,Kostium ducha,2,89.0,internet
+2026-04-05,Małopolskie,Lampion,12,42.0,sklep
+2026-04-06,Mazowieckie,Słodycze (zestaw),11,25.0,internet
+2026-04-06,Małopolskie,Lampion,5,42.0,sklep
+2026-04-06,Pomorskie,Lampion,9,42.0,sklep
+2026-04-06,Śląskie,Słodycze (zestaw),2,25.0,sklep
+2026-04-06,Wielkopolskie,Lampion,9,42.0,internet
+2026-04-07,Pomorskie,Kostium ducha,9,89.0,sklep
+2026-04-07,Małopolskie,Świeca zapachowa,4,34.5,sklep
+2026-04-07,Śląskie,Świeca zapachowa,6,34.5,internet
+2026-04-07,Wielkopolskie,Lampion,3,42.0,sklep
+2026-04-07,Pomorskie,Dynia ozdobna,6,18.0,sklep
+2026-04-07,Pomorskie,Kostium ducha,2,89.0,sklep
+2026-04-07,Wielkopolskie,Kostium ducha,1,89.0,internet
+2026-04-08,Wielkopolskie,Słodycze (zestaw),1,25.0,sklep
+2026-04-08,Małopolskie,Dynia ozdobna,10,18.0,internet
+2026-04-08,Wielkopolskie,Słodycze (zestaw),4,25.0,internet
+2026-04-08,Pomorskie,Kostium ducha,2,89.0,internet
+2026-04-08,Wielkopolskie,Słodycze (zestaw),3,25.0,internet
+2026-04-09,Małopolskie,Kostium ducha,3,89.0,internet
+2026-04-09,Mazowieckie,Dynia ozdobna,1,18.0,sklep
+2026-04-09,Śląskie,Słodycze (zestaw),12,25.0,internet
+2026-04-10,Wielkopolskie,Dynia ozdobna,11,18.0,internet
+2026-04-10,Mazowieckie,Dynia ozdobna,5,18.0,internet
+2026-04-10,Małopolskie,Słodycze (zestaw),11,25.0,sklep
+2026-04-10,Pomorskie,Słodycze (zestaw),3,25.0,internet
+2026-04-10,Śląskie,Świeca zapachowa,4,34.5,sklep
+2026-04-10,Mazowieckie,Świeca zapachowa,5,34.5,internet
+2026-04-11,Mazowieckie,Słodycze (zestaw),1,25.0,internet
+2026-04-11,Pomorskie,Słodycze (zestaw),1,25.0,sklep
+2026-04-11,Śląskie,Świeca zapachowa,1,34.5,sklep
+2026-04-12,Wielkopolskie,Kostium ducha,10,89.0,internet
+2026-04-12,Pomorskie,Dynia ozdobna,6,18.0,internet
+2026-04-12,Pomorskie,Kostium ducha,2,89.0,internet
+2026-04-12,Pomorskie,Lampion,3,42.0,internet
+2026-04-12,Małopolskie,Świeca zapachowa,11,34.5,sklep
+2026-04-12,Małopolskie,Lampion,1,42.0,sklep
+2026-04-12,Mazowieckie,Świeca zapachowa,10,34.5,internet
+2026-04-12,Pomorskie,Świeca zapachowa,2,34.5,internet
+2026-04-13,Pomorskie,Dynia ozdobna,6,18.0,internet
+2026-04-13,Pomorskie,Świeca zapachowa,2,34.5,internet
+2026-04-13,Śląskie,Świeca zapachowa,4,34.5,sklep
+2026-04-14,Wielkopolskie,Lampion,3,42.0,internet
+2026-04-14,Śląskie,Świeca zapachowa,7,34.5,internet
+2026-04-14,Małopolskie,Świeca zapachowa,1,34.5,internet
+2026-04-14,Śląskie,Słodycze (zestaw),6,25.0,sklep
+2026-04-15,Mazowieckie,Lampion,6,42.0,internet
+2026-04-15,Mazowieckie,Lampion,3,42.0,sklep
+2026-04-15,Wielkopolskie,Świeca zapachowa,8,34.5,internet
+2026-04-15,Śląskie,Dynia ozdobna,4,18.0,internet
+2026-04-15,Śląskie,Lampion,4,42.0,sklep
+2026-04-16,Śląskie,Lampion,7,42.0,sklep
+2026-04-16,Śląskie,Dynia ozdobna,3,18.0,sklep
+2026-04-16,Wielkopolskie,Lampion,6,42.0,sklep
+2026-04-17,Wielkopolskie,Dynia ozdobna,5,18.0,sklep
+2026-04-17,Pomorskie,Kostium ducha,1,89.0,internet
+2026-04-17,Śląskie,Świeca zapachowa,10,34.5,sklep
+2026-04-17,Małopolskie,Świeca zapachowa,9,34.5,sklep
+2026-04-17,Małopolskie,Świeca zapachowa,10,34.5,sklep
+2026-04-17,Wielkopolskie,Dynia ozdobna,12,18.0,internet
+2026-04-18,Małopolskie,Świeca zapachowa,3,34.5,sklep
+2026-04-18,Śląskie,Słodycze (zestaw),4,25.0,sklep
+2026-04-18,Wielkopolskie,Dynia ozdobna,7,18.0,sklep
+2026-04-18,Śląskie,Słodycze (zestaw),6,25.0,internet
+2026-04-18,Mazowieckie,Lampion,1,42.0,internet
+2026-04-19,Śląskie,Świeca zapachowa,4,34.5,sklep
+2026-04-19,Śląskie,Słodycze (zestaw),1,25.0,sklep
+2026-04-19,Wielkopolskie,Kostium ducha,10,89.0,sklep
+2026-04-19,Wielkopolskie,Kostium ducha,8,89.0,sklep
+2026-04-19,Śląskie,Dynia ozdobna,12,18.0,sklep
+2026-04-19,Pomorskie,Kostium ducha,10,89.0,sklep
+2026-04-20,Pomorskie,Dynia ozdobna,8,18.0,sklep
+2026-04-20,Wielkopolskie,Słodycze (zestaw),3,25.0,sklep
+2026-04-20,Mazowieckie,Świeca zapachowa,4,34.5,sklep
+2026-04-20,Mazowieckie,Świeca zapachowa,5,34.5,internet
+2026-04-20,Mazowieckie,Słodycze (zestaw),1,25.0,sklep
+2026-04-21,Śląskie,Świeca zapachowa,1,34.5,internet
+2026-04-21,Małopolskie,Słodycze (zestaw),12,25.0,internet
+2026-04-21,Śląskie,Dynia ozdobna,2,18.0,sklep
+2026-04-21,Śląskie,Dynia ozdobna,2,18.0,internet
+2026-04-21,Wielkopolskie,Lampion,9,42.0,internet
+2026-04-21,Mazowieckie,Dynia ozdobna,2,18.0,internet
+2026-04-21,Wielkopolskie,Świeca zapachowa,10,34.5,sklep
+2026-04-21,Małopolskie,Świeca zapachowa,11,34.5,internet
+2026-04-22,Małopolskie,Lampion,1,42.0,internet
+2026-04-22,Wielkopolskie,Lampion,10,42.0,sklep
+2026-04-22,Mazowieckie,Lampion,6,42.0,internet
+2026-04-22,Małopolskie,Lampion,6,42.0,internet
+2026-04-22,Śląskie,Słodycze (zestaw),7,25.0,sklep
+2026-04-22,Wielkopolskie,Kostium ducha,3,89.0,internet
+2026-04-22,Pomorskie,Świeca zapachowa,11,34.5,sklep
+2026-04-22,Mazowieckie,Kostium ducha,9,89.0,sklep
+2026-04-23,Pomorskie,Kostium ducha,4,89.0,sklep
+2026-04-23,Małopolskie,Świeca zapachowa,7,34.5,internet
+2026-04-23,Mazowieckie,Lampion,1,42.0,sklep
+2026-04-24,Śląskie,Słodycze (zestaw),11,25.0,internet
+2026-04-24,Mazowieckie,Słodycze (zestaw),10,25.0,sklep
+2026-04-24,Mazowieckie,Kostium ducha,9,89.0,sklep
+2026-04-24,Małopolskie,Lampion,1,42.0,internet
+2026-04-24,Śląskie,Dynia ozdobna,6,18.0,sklep
+2026-04-24,Mazowieckie,Dynia ozdobna,10,18.0,internet
+2026-04-24,Pomorskie,Dynia ozdobna,10,18.0,sklep
+2026-04-24,Mazowieckie,Lampion,9,42.0,sklep
+2026-04-25,Wielkopolskie,Lampion,5,42.0,internet
+2026-04-25,Mazowieckie,Świeca zapachowa,12,34.5,internet
+2026-04-25,Wielkopolskie,Lampion,12,42.0,sklep
+2026-04-25,Małopolskie,Lampion,9,42.0,internet
+2026-04-25,Wielkopolskie,Lampion,5,42.0,internet
+2026-04-26,Mazowieckie,Kostium ducha,4,89.0,internet
+2026-04-26,Małopolskie,Świeca zapachowa,9,34.5,internet
+2026-04-26,Pomorskie,Słodycze (zestaw),1,25.0,internet
+2026-04-26,Małopolskie,Świeca zapachowa,6,34.5,internet
+2026-04-26,Śląskie,Lampion,5,42.0,sklep
+2026-04-26,Mazowieckie,Kostium ducha,1,89.0,sklep
+2026-04-27,Wielkopolskie,Dynia ozdobna,6,18.0,internet
+2026-04-27,Wielkopolskie,Dynia ozdobna,7,18.0,internet
+2026-04-27,Mazowieckie,Kostium ducha,9,89.0,sklep
+2026-04-27,Pomorskie,Świeca zapachowa,6,34.5,internet
+2026-04-27,Małopolskie,Świeca zapachowa,10,34.5,internet
+2026-04-27,Mazowieckie,Słodycze (zestaw),12,25.0,internet
+2026-04-27,Małopolskie,Kostium ducha,7,89.0,sklep
+2026-04-28,Wielkopolskie,Lampion,10,42.0,sklep
+2026-04-28,Pomorskie,Lampion,10,42.0,sklep
+2026-04-28,Śląskie,Lampion,10,42.0,sklep
+2026-04-29,Pomorskie,Lampion,5,42.0,internet
+2026-04-29,Śląskie,Kostium ducha,7,89.0,internet
+2026-04-29,Mazowieckie,Kostium ducha,12,89.0,internet
+2026-04-29,Pomorskie,Lampion,5,42.0,sklep
+2026-04-29,Śląskie,Słodycze (zestaw),3,25.0,internet
+2026-04-29,Pomorskie,Słodycze (zestaw),10,25.0,sklep
+2026-04-30,Śląskie,Kostium ducha,10,89.0,sklep
+2026-04-30,Małopolskie,Kostium ducha,7,89.0,sklep
+2026-04-30,Mazowieckie,Dynia ozdobna,5,18.0,internet
+2026-05-01,Śląskie,Słodycze (zestaw),9,25.0,internet
+2026-05-01,Wielkopolskie,Słodycze (zestaw),12,25.0,internet
+2026-05-01,Pomorskie,Lampion,6,42.0,sklep
+2026-05-01,Śląskie,Słodycze (zestaw),8,25.0,sklep
+2026-05-01,Wielkopolskie,Dynia ozdobna,4,18.0,sklep
+2026-05-02,Wielkopolskie,Kostium ducha,7,89.0,sklep
+2026-05-02,Pomorskie,Świeca zapachowa,8,34.5,internet
+2026-05-02,Wielkopolskie,Lampion,10,42.0,internet
+2026-05-02,Mazowieckie,Słodycze (zestaw),3,25.0,internet
+2026-05-02,Śląskie,Kostium ducha,2,89.0,internet
+2026-05-02,Małopolskie,Słodycze (zestaw),2,25.0,internet
+2026-05-03,Wielkopolskie,Kostium ducha,7,89.0,sklep
+2026-05-03,Śląskie,Słodycze (zestaw),9,25.0,sklep
+2026-05-03,Małopolskie,Słodycze (zestaw),7,25.0,sklep
+2026-05-03,Wielkopolskie,Dynia ozdobna,10,18.0,sklep
+2026-05-03,Wielkopolskie,Kostium ducha,11,89.0,sklep
+2026-05-03,Mazowieckie,Lampion,1,42.0,internet
+2026-05-03,Mazowieckie,Słodycze (zestaw),5,25.0,internet
+2026-05-03,Wielkopolskie,Dynia ozdobna,1,18.0,sklep
+2026-05-04,Pomorskie,Świeca zapachowa,9,34.5,internet
+2026-05-04,Wielkopolskie,Słodycze (zestaw),3,25.0,sklep
+2026-05-04,Wielkopolskie,Lampion,2,42.0,sklep
+2026-05-04,Wielkopolskie,Świeca zapachowa,9,34.5,sklep
+2026-05-05,Mazowieckie,Dynia ozdobna,3,18.0,internet
+2026-05-05,Wielkopolskie,Lampion,7,42.0,sklep
+2026-05-05,Wielkopolskie,Dynia ozdobna,6,18.0,sklep
+2026-05-06,Śląskie,Świeca zapachowa,5,34.5,sklep
+2026-05-06,Śląskie,Dynia ozdobna,11,18.0,sklep
+2026-05-06,Mazowieckie,Słodycze (zestaw),6,25.0,sklep
+2026-05-06,Wielkopolskie,Lampion,7,42.0,sklep
+2026-05-06,Małopolskie,Dynia ozdobna,7,18.0,sklep
+2026-05-06,Mazowieckie,Lampion,10,42.0,sklep
+2026-05-06,Małopolskie,Świeca zapachowa,1,34.5,sklep
+2026-05-06,Małopolskie,Słodycze (zestaw),6,25.0,sklep
+2026-05-07,Pomorskie,Kostium ducha,10,89.0,internet
+2026-05-07,Mazowieckie,Lampion,4,42.0,internet
+2026-05-07,Małopolskie,Słodycze (zestaw),7,25.0,internet
+2026-05-07,Pomorskie,Lampion,1,42.0,sklep
+2026-05-07,Małopolskie,Dynia ozdobna,3,18.0,internet
+2026-05-07,Małopolskie,Lampion,1,42.0,internet
+2026-05-08,Śląskie,Słodycze (zestaw),2,25.0,internet
+2026-05-08,Pomorskie,Słodycze (zestaw),6,25.0,internet
+2026-05-08,Mazowieckie,Dynia ozdobna,7,18.0,internet
+2026-05-08,Małopolskie,Słodycze (zestaw),7,25.0,sklep
+2026-05-08,Śląskie,Lampion,6,42.0,sklep
+2026-05-08,Mazowieckie,Lampion,5,42.0,sklep
+2026-05-09,Małopolskie,Świeca zapachowa,12,34.5,sklep
+2026-05-09,Małopolskie,Dynia ozdobna,5,18.0,sklep
+2026-05-09,Pomorskie,Słodycze (zestaw),8,25.0,sklep
+2026-05-09,Śląskie,Świeca zapachowa,6,34.5,sklep
+2026-05-09,Pomorskie,Lampion,11,42.0,sklep
+2026-05-10,Wielkopolskie,Lampion,4,42.0,sklep
+2026-05-10,Małopolskie,Lampion,12,42.0,internet
+2026-05-10,Pomorskie,Słodycze (zestaw),10,25.0,internet
+2026-05-10,Małopolskie,Słodycze (zestaw),7,25.0,sklep
+2026-05-10,Mazowieckie,Świeca zapachowa,11,34.5,sklep
+2026-05-11,Pomorskie,Kostium ducha,1,89.0,sklep
+2026-05-11,Mazowieckie,Kostium ducha,7,89.0,sklep
+2026-05-11,Małopolskie,Świeca zapachowa,6,34.5,sklep
+2026-05-11,Mazowieckie,Dynia ozdobna,9,18.0,internet
+2026-05-11,Śląskie,Słodycze (zestaw),4,25.0,sklep
+2026-05-11,Mazowieckie,Kostium ducha,4,89.0,internet
+2026-05-11,Pomorskie,Świeca zapachowa,5,34.5,internet
+2026-05-12,Małopolskie,Lampion,5,42.0,sklep
+2026-05-12,Śląskie,Dynia ozdobna,11,18.0,internet
+2026-05-12,Mazowieckie,Lampion,11,42.0,internet
+2026-05-12,Pomorskie,Świeca zapachowa,6,34.5,sklep
+2026-05-12,Śląskie,Świeca zapachowa,2,34.5,internet
+2026-05-12,Małopolskie,Słodycze (zestaw),12,25.0,sklep
+2026-05-13,Wielkopolskie,Dynia ozdobna,3,18.0,internet
+2026-05-13,Śląskie,Świeca zapachowa,3,34.5,internet
+2026-05-13,Wielkopolskie,Dynia ozdobna,5,18.0,sklep
+2026-05-13,Małopolskie,Słodycze (zestaw),10,25.0,internet
+2026-05-13,Śląskie,Słodycze (zestaw),7,25.0,internet
+2026-05-13,Mazowieckie,Dynia ozdobna,11,18.0,internet
+2026-05-14,Wielkopolskie,Słodycze (zestaw),12,25.0,sklep
+2026-05-14,Mazowieckie,Świeca zapachowa,1,34.5,internet
+2026-05-14,Śląskie,Świeca zapachowa,12,34.5,sklep
+2026-05-15,Wielkopolskie,Lampion,4,42.0,internet
+2026-05-15,Mazowieckie,Słodycze (zestaw),6,25.0,internet
+2026-05-15,Śląskie,Lampion,12,42.0,internet
+2026-05-15,Mazowieckie,Słodycze (zestaw),11,25.0,sklep
+2026-05-15,Wielkopolskie,Lampion,3,42.0,internet
+2026-05-15,Mazowieckie,Świeca zapachowa,12,34.5,internet
+2026-05-16,Małopolskie,Słodycze (zestaw),11,25.0,sklep
+2026-05-16,Śląskie,Słodycze (zestaw),4,25.0,sklep
+2026-05-16,Śląskie,Świeca zapachowa,6,34.5,internet
+2026-05-16,Małopolskie,Dynia ozdobna,11,18.0,internet
+2026-05-17,Pomorskie,Świeca zapachowa,11,34.5,internet
+2026-05-17,Małopolskie,Świeca zapachowa,1,34.5,internet
+2026-05-17,Śląskie,Świeca zapachowa,12,34.5,internet
+2026-05-17,Małopolskie,Świeca zapachowa,10,34.5,sklep
+2026-05-18,Wielkopolskie,Dynia ozdobna,7,18.0,sklep
+2026-05-18,Wielkopolskie,Świeca zapachowa,8,34.5,internet
+2026-05-18,Mazowieckie,Świeca zapachowa,12,34.5,internet
+2026-05-18,Śląskie,Dynia ozdobna,8,18.0,sklep
+2026-05-18,Mazowieckie,Dynia ozdobna,5,18.0,internet
+2026-05-19,Śląskie,Dynia ozdobna,8,18.0,sklep
+2026-05-19,Śląskie,Świeca zapachowa,8,34.5,internet
+2026-05-19,Śląskie,Słodycze (zestaw),5,25.0,sklep
+2026-05-19,Mazowieckie,Słodycze (zestaw),1,25.0,sklep
+2026-05-20,Mazowieckie,Lampion,12,42.0,internet
+2026-05-20,Śląskie,Słodycze (zestaw),2,25.0,internet
+2026-05-20,Pomorskie,Lampion,4,42.0,internet
+2026-05-20,Śląskie,Dynia ozdobna,2,18.0,internet
+2026-05-20,Śląskie,Słodycze (zestaw),11,25.0,sklep
+2026-05-20,Małopolskie,Dynia ozdobna,12,18.0,sklep
+2026-05-21,Małopolskie,Lampion,5,42.0,internet
+2026-05-21,Wielkopolskie,Świeca zapachowa,11,34.5,sklep
+2026-05-21,Śląskie,Dynia ozdobna,12,18.0,internet
+2026-05-22,Śląskie,Świeca zapachowa,6,34.5,sklep
+2026-05-22,Małopolskie,Kostium ducha,9,89.0,internet
+2026-05-22,Małopolskie,Kostium ducha,1,89.0,sklep
+2026-05-22,Wielkopolskie,Dynia ozdobna,11,18.0,internet
+2026-05-22,Małopolskie,Dynia ozdobna,8,18.0,internet
+2026-05-22,Małopolskie,Lampion,5,42.0,sklep
+2026-05-23,Małopolskie,Świeca zapachowa,3,34.5,internet
+2026-05-23,Mazowieckie,Lampion,1,42.0,internet
+2026-05-23,Małopolskie,Lampion,4,42.0,internet
+2026-05-23,Mazowieckie,Dynia ozdobna,10,18.0,internet
+2026-05-24,Mazowieckie,Kostium ducha,11,89.0,sklep
+2026-05-24,Pomorskie,Słodycze (zestaw),6,25.0,sklep
+2026-05-24,Mazowieckie,Lampion,11,42.0,sklep
+2026-05-24,Pomorskie,Świeca zapachowa,5,34.5,sklep
+2026-05-25,Śląskie,Słodycze (zestaw),10,25.0,sklep
+2026-05-25,Mazowieckie,Lampion,9,42.0,internet
+2026-05-25,Pomorskie,Słodycze (zestaw),7,25.0,sklep
+2026-05-25,Wielkopolskie,Lampion,10,42.0,sklep
+2026-05-25,Śląskie,Dynia ozdobna,10,18.0,internet
+2026-05-25,Wielkopolskie,Słodycze (zestaw),7,25.0,internet
+2026-05-26,Śląskie,Świeca zapachowa,6,34.5,sklep
+2026-05-26,Małopolskie,Świeca zapachowa,11,34.5,internet
+2026-05-26,Małopolskie,Dynia ozdobna,11,18.0,internet
+2026-05-26,Wielkopolskie,Słodycze (zestaw),7,25.0,internet
+2026-05-26,Małopolskie,Słodycze (zestaw),10,25.0,internet
+2026-05-26,Śląskie,Lampion,2,42.0,sklep
+2026-05-27,Wielkopolskie,Świeca zapachowa,12,34.5,sklep
+2026-05-27,Śląskie,Świeca zapachowa,11,34.5,sklep
+2026-05-27,Wielkopolskie,Świeca zapachowa,11,34.5,internet
+2026-05-27,Małopolskie,Lampion,9,42.0,internet
+2026-05-28,Wielkopolskie,Słodycze (zestaw),12,25.0,sklep
+2026-05-28,Wielkopolskie,Słodycze (zestaw),10,25.0,sklep
+2026-05-28,Mazowieckie,Lampion,8,42.0,sklep
+2026-05-28,Wielkopolskie,Słodycze (zestaw),9,25.0,sklep
+2026-05-29,Mazowieckie,Słodycze (zestaw),8,25.0,internet
+2026-05-29,Małopolskie,Słodycze (zestaw),4,25.0,internet
+2026-05-29,Małopolskie,Dynia ozdobna,6,18.0,sklep
+2026-05-29,Małopolskie,Lampion,1,42.0,internet
+2026-05-29,Mazowieckie,Dynia ozdobna,12,18.0,sklep
+2026-05-29,Śląskie,Lampion,2,42.0,sklep
+2026-05-29,Mazowieckie,Lampion,10,42.0,sklep
+2026-05-29,Mazowieckie,Słodycze (zestaw),12,25.0,internet
+2026-05-30,Śląskie,Kostium ducha,12,89.0,sklep
+2026-05-30,Mazowieckie,Kostium ducha,4,89.0,internet
+2026-05-30,Wielkopolskie,Słodycze (zestaw),6,25.0,internet
+2026-05-30,Wielkopolskie,Dynia ozdobna,6,18.0,sklep
+2026-05-31,Śląskie,Słodycze (zestaw),10,25.0,sklep
+2026-05-31,Małopolskie,Dynia ozdobna,5,18.0,internet
+2026-05-31,Pomorskie,Świeca zapachowa,1,34.5,internet
+2026-05-31,Mazowieckie,Dynia ozdobna,8,18.0,sklep
+2026-05-31,Śląskie,Dynia ozdobna,3,18.0,sklep
+2026-06-01,Pomorskie,Kostium ducha,3,89.0,internet
+2026-06-01,Śląskie,Słodycze (zestaw),8,25.0,sklep
+2026-06-01,Śląskie,Dynia ozdobna,3,18.0,internet
+2026-06-01,Pomorskie,Słodycze (zestaw),1,25.0,sklep
+2026-06-01,Małopolskie,Dynia ozdobna,10,18.0,internet
+2026-06-01,Małopolskie,Lampion,12,42.0,internet
+2026-06-01,Małopolskie,Lampion,10,42.0,sklep
+2026-06-02,Wielkopolskie,Kostium ducha,4,89.0,internet
+2026-06-02,Wielkopolskie,Świeca zapachowa,10,34.5,sklep
+2026-06-02,Małopolskie,Świeca zapachowa,6,34.5,internet
+2026-06-02,Wielkopolskie,Kostium ducha,8,89.0,internet
+2026-06-02,Śląskie,Kostium ducha,1,89.0,internet
+2026-06-03,Śląskie,Lampion,4,42.0,sklep
+2026-06-03,Pomorskie,Świeca zapachowa,10,34.5,sklep
+2026-06-03,Małopolskie,Świeca zapachowa,5,34.5,internet
+2026-06-03,Mazowieckie,Kostium ducha,9,89.0,internet
+2026-06-03,Wielkopolskie,Kostium ducha,10,89.0,sklep
+2026-06-03,Wielkopolskie,Dynia ozdobna,2,18.0,sklep
+2026-06-03,Wielkopolskie,Lampion,11,42.0,sklep
+2026-06-04,Małopolskie,Kostium ducha,3,89.0,sklep
+2026-06-04,Śląskie,Kostium ducha,12,89.0,internet
+2026-06-04,Małopolskie,Słodycze (zestaw),6,25.0,internet
+2026-06-04,Mazowieckie,Kostium ducha,12,89.0,internet
+2026-06-04,Pomorskie,Kostium ducha,9,89.0,internet
+2026-06-05,Śląskie,Świeca zapachowa,3,34.5,sklep
+2026-06-05,Mazowieckie,Świeca zapachowa,11,34.5,internet
+2026-06-05,Pomorskie,Lampion,7,42.0,internet
+2026-06-05,Wielkopolskie,Świeca zapachowa,2,34.5,sklep
+2026-06-06,Śląskie,Kostium ducha,12,89.0,internet
+2026-06-06,Małopolskie,Dynia ozdobna,10,18.0,sklep
+2026-06-06,Małopolskie,Słodycze (zestaw),5,25.0,internet
+2026-06-06,Śląskie,Lampion,12,42.0,internet
+2026-06-06,Pomorskie,Dynia ozdobna,6,18.0,sklep
+2026-06-07,Wielkopolskie,Kostium ducha,1,89.0,sklep
+2026-06-07,Małopolskie,Kostium ducha,12,89.0,sklep
+2026-06-07,Mazowieckie,Świeca zapachowa,7,34.5,internet
+2026-06-07,Wielkopolskie,Świeca zapachowa,5,34.5,sklep
+2026-06-07,Małopolskie,Świeca zapachowa,12,34.5,sklep
+2026-06-08,Mazowieckie,Słodycze (zestaw),2,25.0,sklep
+2026-06-08,Śląskie,Słodycze (zestaw),12,25.0,sklep
+2026-06-08,Małopolskie,Dynia ozdobna,5,18.0,sklep
+2026-06-08,Mazowieckie,Kostium ducha,4,89.0,internet
+2026-06-09,Pomorskie,Dynia ozdobna,7,18.0,internet
+2026-06-09,Mazowieckie,Świeca zapachowa,7,34.5,sklep
+2026-06-09,Wielkopolskie,Dynia ozdobna,6,18.0,internet
+2026-06-09,Pomorskie,Słodycze (zestaw),5,25.0,internet
+2026-06-09,Mazowieckie,Dynia ozdobna,6,18.0,internet
+2026-06-10,Wielkopolskie,Lampion,12,42.0,internet
+2026-06-10,Mazowieckie,Świeca zapachowa,1,34.5,sklep
+2026-06-10,Małopolskie,Świeca zapachowa,9,34.5,sklep
+2026-06-11,Pomorskie,Kostium ducha,6,89.0,sklep
+2026-06-11,Wielkopolskie,Słodycze (zestaw),6,25.0,sklep
+2026-06-11,Śląskie,Słodycze (zestaw),12,25.0,internet
+2026-06-11,Śląskie,Dynia ozdobna,11,18.0,internet
+2026-06-11,Śląskie,Słodycze (zestaw),6,25.0,internet
+2026-06-12,Mazowieckie,Kostium ducha,9,89.0,internet
+2026-06-12,Śląskie,Dynia ozdobna,3,18.0,sklep
+2026-06-12,Mazowieckie,Lampion,1,42.0,sklep
+2026-06-12,Mazowieckie,Dynia ozdobna,9,18.0,sklep
+2026-06-13,Śląskie,Świeca zapachowa,10,34.5,internet
+2026-06-13,Małopolskie,Świeca zapachowa,12,34.5,sklep
+2026-06-13,Mazowieckie,Słodycze (zestaw),6,25.0,sklep
+2026-06-13,Pomorskie,Lampion,4,42.0,internet
+2026-06-13,Pomorskie,Lampion,4,42.0,internet
+2026-06-13,Mazowieckie,Dynia ozdobna,11,18.0,sklep
+2026-06-13,Pomorskie,Dynia ozdobna,11,18.0,internet
+2026-06-14,Wielkopolskie,Świeca zapachowa,7,34.5,internet
+2026-06-14,Małopolskie,Lampion,1,42.0,internet
+2026-06-14,Śląskie,Dynia ozdobna,12,18.0,internet
+2026-06-15,Śląskie,Świeca zapachowa,4,34.5,internet
+2026-06-15,Śląskie,Lampion,5,42.0,internet
+2026-06-15,Wielkopolskie,Świeca zapachowa,3,34.5,internet
+2026-06-15,Małopolskie,Kostium ducha,5,89.0,internet
+2026-06-16,Mazowieckie,Kostium ducha,8,89.0,sklep
+2026-06-16,Śląskie,Świeca zapachowa,11,34.5,internet
+2026-06-16,Wielkopolskie,Świeca zapachowa,1,34.5,sklep
+2026-06-17,Mazowieckie,Kostium ducha,8,89.0,sklep
+2026-06-17,Małopolskie,Lampion,5,42.0,sklep
+2026-06-17,Małopolskie,Dynia ozdobna,1,18.0,sklep
+2026-06-17,Małopolskie,Kostium ducha,9,89.0,internet
+2026-06-17,Małopolskie,Dynia ozdobna,8,18.0,internet
+2026-06-17,Pomorskie,Dynia ozdobna,6,18.0,internet
+2026-06-17,Mazowieckie,Kostium ducha,10,89.0,sklep
+2026-06-17,Mazowieckie,Świeca zapachowa,1,34.5,sklep
+2026-06-18,Małopolskie,Słodycze (zestaw),10,25.0,internet
+2026-06-18,Mazowieckie,Dynia ozdobna,1,18.0,internet
+2026-06-18,Mazowieckie,Dynia ozdobna,2,18.0,internet
+2026-06-18,Wielkopolskie,Świeca zapachowa,7,34.5,sklep
+2026-06-18,Małopolskie,Świeca zapachowa,11,34.5,sklep
+2026-06-18,Wielkopolskie,Słodycze (zestaw),2,25.0,internet
+2026-06-18,Mazowieckie,Lampion,6,42.0,sklep
+2026-06-19,Śląskie,Dynia ozdobna,12,18.0,sklep
+2026-06-19,Śląskie,Dynia ozdobna,5,18.0,sklep
+2026-06-19,Małopolskie,Dynia ozdobna,9,18.0,sklep
+2026-06-19,Wielkopolskie,Lampion,6,42.0,internet
+2026-06-20,Mazowieckie,Kostium ducha,11,89.0,internet
+2026-06-20,Śląskie,Słodycze (zestaw),9,25.0,internet
+2026-06-20,Śląskie,Lampion,7,42.0,internet
+2026-06-21,Pomorskie,Słodycze (zestaw),7,25.0,sklep
+2026-06-21,Pomorskie,Lampion,7,42.0,sklep
+2026-06-21,Małopolskie,Dynia ozdobna,10,18.0,internet
+2026-06-21,Pomorskie,Słodycze (zestaw),4,25.0,sklep
+2026-06-21,Mazowieckie,Dynia ozdobna,10,18.0,sklep
+2026-06-22,Pomorskie,Dynia ozdobna,12,18.0,internet
+2026-06-22,Wielkopolskie,Lampion,11,42.0,internet
+2026-06-22,Wielkopolskie,Lampion,1,42.0,internet
+2026-06-22,Wielkopolskie,Lampion,6,42.0,internet
+2026-06-22,Pomorskie,Świeca zapachowa,6,34.5,sklep
+2026-06-22,Wielkopolskie,Lampion,5,42.0,internet
+2026-06-22,Wielkopolskie,Dynia ozdobna,11,18.0,sklep
+2026-06-22,Śląskie,Słodycze (zestaw),5,25.0,internet
+2026-06-23,Wielkopolskie,Kostium ducha,10,89.0,internet
+2026-06-23,Małopolskie,Słodycze (zestaw),3,25.0,sklep
+2026-06-23,Śląskie,Słodycze (zestaw),9,25.0,sklep
+2026-06-23,Małopolskie,Słodycze (zestaw),6,25.0,sklep
+2026-06-23,Małopolskie,Świeca zapachowa,11,34.5,internet
+2026-06-23,Mazowieckie,Świeca zapachowa,6,34.5,internet
+2026-06-23,Pomorskie,Kostium ducha,2,89.0,internet
+2026-06-23,Śląskie,Świeca zapachowa,7,34.5,sklep
+2026-06-24,Wielkopolskie,Kostium ducha,9,89.0,internet
+2026-06-24,Mazowieckie,Lampion,5,42.0,internet
+2026-06-24,Pomorskie,Kostium ducha,12,89.0,sklep
+2026-06-24,Pomorskie,Lampion,12,42.0,sklep
+2026-06-24,Małopolskie,Słodycze (zestaw),1,25.0,sklep
+2026-06-25,Wielkopolskie,Lampion,11,42.0,sklep
+2026-06-25,Śląskie,Słodycze (zestaw),9,25.0,internet
+2026-06-25,Śląskie,Lampion,1,42.0,sklep
+2026-06-25,Wielkopolskie,Dynia ozdobna,5,18.0,sklep
+2026-06-25,Małopolskie,Słodycze (zestaw),5,25.0,internet
+2026-06-26,Małopolskie,Kostium ducha,5,89.0,internet
+2026-06-26,Wielkopolskie,Dynia ozdobna,11,18.0,internet
+2026-06-26,Małopolskie,Dynia ozdobna,3,18.0,internet
+2026-06-26,Wielkopolskie,Kostium ducha,6,89.0,sklep
+2026-06-26,Pomorskie,Lampion,6,42.0,sklep
+2026-06-27,Pomorskie,Kostium ducha,7,89.0,internet
+2026-06-27,Małopolskie,Kostium ducha,7,89.0,sklep
+2026-06-27,Małopolskie,Słodycze (zestaw),12,25.0,internet
+2026-06-27,Małopolskie,Dynia ozdobna,6,18.0,sklep
+2026-06-27,Pomorskie,Dynia ozdobna,7,18.0,internet
+2026-06-27,Pomorskie,Słodycze (zestaw),8,25.0,sklep
+2026-06-27,Wielkopolskie,Dynia ozdobna,10,18.0,internet
+2026-06-27,Pomorskie,Lampion,7,42.0,internet
+2026-06-28,Pomorskie,Dynia ozdobna,7,18.0,internet
+2026-06-28,Wielkopolskie,Świeca zapachowa,1,34.5,sklep
+2026-06-28,Pomorskie,Świeca zapachowa,9,34.5,sklep
+2026-06-28,Wielkopolskie,Kostium ducha,6,89.0,internet
+2026-06-29,Mazowieckie,Dynia ozdobna,4,18.0,sklep
+2026-06-29,Mazowieckie,Słodycze (zestaw),2,25.0,internet
+2026-06-29,Małopolskie,Dynia ozdobna,10,18.0,internet
+2026-06-29,Małopolskie,Dynia ozdobna,12,18.0,internet
+2026-06-29,Mazowieckie,Lampion,9,42.0,internet
+2026-06-29,Małopolskie,Słodycze (zestaw),7,25.0,sklep
+2026-06-30,Śląskie,Świeca zapachowa,6,34.5,sklep
+2026-06-30,Mazowieckie,Słodycze (zestaw),3,25.0,internet
+2026-06-30,Śląskie,Słodycze (zestaw),2,25.0,internet
+2026-06-30,Śląskie,Lampion,11,42.0,internet
+2026-06-30,Pomorskie,Słodycze (zestaw),9,25.0,internet
+2026-06-30,Śląskie,Dynia ozdobna,5,18.0,sklep
+2026-06-30,Pomorskie,Lampion,9,42.0,internet
+2026-06-30,Małopolskie,Kostium ducha,3,89.0,sklep
+2026-07-01,Śląskie,Słodycze (zestaw),8,25.0,internet
+2026-07-01,Małopolskie,Słodycze (zestaw),6,25.0,internet
+2026-07-01,Pomorskie,Świeca zapachowa,12,34.5,sklep
+2026-07-01,Mazowieckie,Kostium ducha,9,89.0,sklep
+2026-07-02,Śląskie,Słodycze (zestaw),1,25.0,internet
+2026-07-02,Pomorskie,Świeca zapachowa,5,34.5,sklep
+2026-07-02,Wielkopolskie,Świeca zapachowa,10,34.5,internet
+2026-07-02,Pomorskie,Lampion,4,42.0,sklep
+2026-07-02,Małopolskie,Dynia ozdobna,7,18.0,sklep
+2026-07-02,Małopolskie,Dynia ozdobna,2,18.0,internet
+2026-07-03,Wielkopolskie,Dynia ozdobna,12,18.0,sklep
+2026-07-03,Małopolskie,Lampion,11,42.0,internet
+2026-07-03,Wielkopolskie,Świeca zapachowa,3,34.5,sklep
+2026-07-03,Wielkopolskie,Świeca zapachowa,2,34.5,internet
+2026-07-04,Mazowieckie,Świeca zapachowa,1,34.5,internet
+2026-07-04,Śląskie,Świeca zapachowa,12,34.5,internet
+2026-07-04,Małopolskie,Lampion,1,42.0,sklep
+2026-07-05,Pomorskie,Świeca zapachowa,5,34.5,sklep
+2026-07-05,Śląskie,Słodycze (zestaw),12,25.0,sklep
+2026-07-05,Śląskie,Kostium ducha,6,89.0,sklep
+2026-07-06,Pomorskie,Świeca zapachowa,1,34.5,internet
+2026-07-06,Małopolskie,Lampion,11,42.0,internet
+2026-07-06,Wielkopolskie,Świeca zapachowa,12,34.5,sklep
+2026-07-06,Pomorskie,Świeca zapachowa,3,34.5,sklep
+2026-07-07,Pomorskie,Kostium ducha,2,89.0,sklep
+2026-07-07,Mazowieckie,Kostium ducha,11,89.0,sklep
+2026-07-07,Wielkopolskie,Słodycze (zestaw),2,25.0,internet
+2026-07-07,Śląskie,Lampion,1,42.0,internet
+2026-07-07,Małopolskie,Dynia ozdobna,8,18.0,internet
+2026-07-07,Wielkopolskie,Kostium ducha,10,89.0,sklep
+2026-07-08,Pomorskie,Świeca zapachowa,5,34.5,sklep
+2026-07-08,Śląskie,Słodycze (zestaw),1,25.0,sklep
+2026-07-08,Śląskie,Dynia ozdobna,4,18.0,sklep
+2026-07-08,Mazowieckie,Kostium ducha,3,89.0,internet
+2026-07-09,Pomorskie,Lampion,4,42.0,internet
+2026-07-09,Małopolskie,Kostium ducha,2,89.0,internet
+2026-07-09,Wielkopolskie,Dynia ozdobna,8,18.0,sklep
+2026-07-09,Mazowieckie,Słodycze (zestaw),3,25.0,internet
+2026-07-09,Mazowieckie,Lampion,1,42.0,sklep
+2026-07-10,Mazowieckie,Słodycze (zestaw),7,25.0,sklep
+2026-07-10,Wielkopolskie,Lampion,6,42.0,sklep
+2026-07-10,Małopolskie,Kostium ducha,6,89.0,sklep
+2026-07-10,Śląskie,Dynia ozdobna,1,18.0,internet
+2026-07-10,Małopolskie,Kostium ducha,5,89.0,sklep
+2026-07-10,Małopolskie,Dynia ozdobna,2,18.0,sklep
+2026-07-10,Śląskie,Lampion,9,42.0,sklep
+2026-07-11,Małopolskie,Lampion,3,42.0,sklep
+2026-07-11,Śląskie,Słodycze (zestaw),6,25.0,sklep
+2026-07-11,Pomorskie,Kostium ducha,9,89.0,sklep
+2026-07-11,Małopolskie,Świeca zapachowa,12,34.5,sklep
+2026-07-11,Mazowieckie,Dynia ozdobna,2,18.0,sklep
+2026-07-12,Małopolskie,Słodycze (zestaw),12,25.0,sklep
+2026-07-12,Małopolskie,Dynia ozdobna,3,18.0,internet
+2026-07-12,Pomorskie,Dynia ozdobna,7,18.0,sklep
+2026-07-12,Wielkopolskie,Kostium ducha,2,89.0,sklep
+2026-07-12,Małopolskie,Słodycze (zestaw),4,25.0,sklep
+2026-07-12,Wielkopolskie,Słodycze (zestaw),12,25.0,sklep
+2026-07-13,Wielkopolskie,Dynia ozdobna,6,18.0,sklep
+2026-07-13,Małopolskie,Dynia ozdobna,10,18.0,sklep
+2026-07-13,Śląskie,Kostium ducha,2,89.0,internet
+2026-07-13,Małopolskie,Słodycze (zestaw),1,25.0,internet
+2026-07-14,Mazowieckie,Lampion,2,42.0,sklep
+2026-07-14,Wielkopolskie,Świeca zapachowa,11,34.5,sklep
+2026-07-14,Śląskie,Świeca zapachowa,3,34.5,sklep
+2026-07-14,Małopolskie,Świeca zapachowa,11,34.5,internet
+2026-07-14,Mazowieckie,Dynia ozdobna,8,18.0,sklep
+2026-07-14,Wielkopolskie,Lampion,6,42.0,sklep
+2026-07-15,Małopolskie,Dynia ozdobna,11,18.0,sklep
+2026-07-15,Pomorskie,Kostium ducha,2,89.0,internet
+2026-07-15,Małopolskie,Słodycze (zestaw),8,25.0,internet
+2026-07-15,Śląskie,Świeca zapachowa,12,34.5,internet
+2026-07-15,Pomorskie,Dynia ozdobna,11,18.0,sklep
+2026-07-15,Pomorskie,Lampion,11,42.0,internet
+2026-07-15,Wielkopolskie,Słodycze (zestaw),11,25.0,sklep
+2026-07-16,Małopolskie,Kostium ducha,4,89.0,sklep
+2026-07-16,Pomorskie,Słodycze (zestaw),9,25.0,sklep
+2026-07-16,Wielkopolskie,Lampion,11,42.0,sklep
+2026-07-17,Śląskie,Lampion,7,42.0,internet
+2026-07-17,Małopolskie,Dynia ozdobna,11,18.0,internet
+2026-07-17,Pomorskie,Słodycze (zestaw),5,25.0,sklep
+2026-07-17,Pomorskie,Kostium ducha,10,89.0,sklep
+2026-07-17,Pomorskie,Dynia ozdobna,7,18.0,internet
+2026-07-17,Śląskie,Słodycze (zestaw),8,25.0,sklep
+2026-07-18,Małopolskie,Słodycze (zestaw),2,25.0,internet
+2026-07-18,Pomorskie,Lampion,10,42.0,sklep
+2026-07-18,Śląskie,Kostium ducha,2,89.0,internet
+2026-07-18,Pomorskie,Świeca zapachowa,7,34.5,sklep
+2026-07-18,Małopolskie,Dynia ozdobna,11,18.0,sklep
+2026-07-19,Pomorskie,Świeca zapachowa,5,34.5,internet
+2026-07-19,Śląskie,Świeca zapachowa,3,34.5,sklep
+2026-07-19,Wielkopolskie,Kostium ducha,7,89.0,internet
+2026-07-19,Śląskie,Lampion,9,42.0,sklep
+2026-07-19,Pomorskie,Świeca zapachowa,9,34.5,sklep
+2026-07-19,Małopolskie,Dynia ozdobna,2,18.0,sklep
+2026-07-20,Śląskie,Słodycze (zestaw),12,25.0,internet
+2026-07-20,Wielkopolskie,Dynia ozdobna,12,18.0,internet
+2026-07-20,Śląskie,Świeca zapachowa,11,34.5,internet
+2026-07-20,Wielkopolskie,Dynia ozdobna,10,18.0,internet
+2026-07-20,Śląskie,Lampion,5,42.0,internet
+2026-07-20,Pomorskie,Kostium ducha,9,89.0,sklep
+2026-07-21,Pomorskie,Lampion,6,42.0,sklep
+2026-07-21,Mazowieckie,Dynia ozdobna,9,18.0,internet
+2026-07-21,Śląskie,Lampion,9,42.0,sklep
+2026-07-21,Pomorskie,Słodycze (zestaw),1,25.0,internet
+2026-07-21,Małopolskie,Lampion,1,42.0,internet
+2026-07-21,Małopolskie,Świeca zapachowa,10,34.5,sklep
+2026-07-21,Małopolskie,Lampion,12,42.0,internet
+2026-07-21,Śląskie,Świeca zapachowa,9,34.5,sklep
+2026-07-22,Pomorskie,Słodycze (zestaw),11,25.0,sklep
+2026-07-22,Pomorskie,Lampion,12,42.0,internet
+2026-07-22,Śląskie,Kostium ducha,3,89.0,internet
+2026-07-22,Wielkopolskie,Dynia ozdobna,6,18.0,sklep
+2026-07-22,Wielkopolskie,Świeca zapachowa,1,34.5,sklep
+2026-07-22,Wielkopolskie,Kostium ducha,3,89.0,internet
+2026-07-23,Śląskie,Słodycze (zestaw),7,25.0,internet
+2026-07-23,Śląskie,Świeca zapachowa,5,34.5,internet
+2026-07-23,Wielkopolskie,Świeca zapachowa,6,34.5,internet
+2026-07-24,Śląskie,Dynia ozdobna,6,18.0,internet
+2026-07-24,Pomorskie,Kostium ducha,8,89.0,internet
+2026-07-24,Małopolskie,Dynia ozdobna,10,18.0,internet
+2026-07-24,Pomorskie,Słodycze (zestaw),11,25.0,sklep
+2026-07-24,Mazowieckie,Kostium ducha,3,89.0,internet
+2026-07-24,Pomorskie,Słodycze (zestaw),11,25.0,internet
+2026-07-25,Pomorskie,Kostium ducha,6,89.0,internet
+2026-07-25,Śląskie,Słodycze (zestaw),11,25.0,sklep
+2026-07-25,Pomorskie,Kostium ducha,1,89.0,sklep
+2026-07-26,Śląskie,Słodycze (zestaw),6,25.0,internet
+2026-07-26,Małopolskie,Kostium ducha,2,89.0,sklep
+2026-07-26,Pomorskie,Słodycze (zestaw),12,25.0,sklep
+2026-07-26,Małopolskie,Kostium ducha,11,89.0,sklep
+2026-07-26,Pomorskie,Dynia ozdobna,7,18.0,internet
+2026-07-26,Pomorskie,Lampion,8,42.0,internet
+2026-07-26,Małopolskie,Kostium ducha,12,89.0,sklep
+2026-07-27,Pomorskie,Słodycze (zestaw),11,25.0,internet
+2026-07-27,Małopolskie,Świeca zapachowa,6,34.5,sklep
+2026-07-27,Mazowieckie,Lampion,9,42.0,sklep
+2026-07-27,Małopolskie,Słodycze (zestaw),10,25.0,internet
+2026-07-27,Małopolskie,Lampion,10,42.0,internet
+2026-07-27,Małopolskie,Świeca zapachowa,4,34.5,sklep
+2026-07-27,Mazowieckie,Słodycze (zestaw),5,25.0,sklep
+2026-07-28,Śląskie,Lampion,3,42.0,internet
+2026-07-28,Śląskie,Słodycze (zestaw),12,25.0,sklep
+2026-07-28,Wielkopolskie,Słodycze (zestaw),9,25.0,internet
+2026-07-28,Małopolskie,Słodycze (zestaw),4,25.0,internet
+2026-07-28,Śląskie,Dynia ozdobna,11,18.0,sklep
+2026-07-28,Mazowieckie,Kostium ducha,12,89.0,sklep
+2026-07-28,Śląskie,Dynia ozdobna,4,18.0,sklep
+2026-07-28,Małopolskie,Lampion,8,42.0,internet
+2026-07-29,Pomorskie,Dynia ozdobna,10,18.0,sklep
+2026-07-29,Wielkopolskie,Dynia ozdobna,8,18.0,sklep
+2026-07-29,Małopolskie,Lampion,5,42.0,internet
+2026-07-29,Wielkopolskie,Kostium ducha,10,89.0,sklep
+2026-07-29,Wielkopolskie,Świeca zapachowa,4,34.5,internet
+2026-07-29,Wielkopolskie,Słodycze (zestaw),12,25.0,sklep
+2026-07-29,Małopolskie,Świeca zapachowa,1,34.5,internet
+2026-07-30,Mazowieckie,Kostium ducha,11,89.0,internet
+2026-07-30,Wielkopolskie,Dynia ozdobna,2,18.0,internet
+2026-07-30,Wielkopolskie,Lampion,10,42.0,internet
+2026-07-30,Mazowieckie,Świeca zapachowa,6,34.5,internet
+2026-07-30,Mazowieckie,Kostium ducha,11,89.0,internet
+2026-07-30,Małopolskie,Słodycze (zestaw),7,25.0,internet
+2026-07-31,Pomorskie,Słodycze (zestaw),4,25.0,internet
+2026-07-31,Małopolskie,Słodycze (zestaw),2,25.0,internet
+2026-07-31,Śląskie,Świeca zapachowa,4,34.5,sklep
+2026-07-31,Mazowieckie,Słodycze (zestaw),8,25.0,sklep
+2026-07-31,Śląskie,Świeca zapachowa,4,34.5,internet
+2026-07-31,Wielkopolskie,Dynia ozdobna,12,18.0,sklep
+2026-07-31,Śląskie,Dynia ozdobna,4,18.0,internet
+2026-07-31,Wielkopolskie,Dynia ozdobna,5,18.0,internet
+2026-08-01,Wielkopolskie,Świeca zapachowa,11,34.5,internet
+2026-08-01,Śląskie,Kostium ducha,2,89.0,sklep
+2026-08-01,Śląskie,Świeca zapachowa,7,34.5,sklep
+2026-08-01,Mazowieckie,Lampion,6,42.0,sklep
+2026-08-01,Śląskie,Świeca zapachowa,8,34.5,internet
+2026-08-01,Śląskie,Dynia ozdobna,6,18.0,internet
+2026-08-01,Mazowieckie,Świeca zapachowa,9,34.5,internet
+2026-08-01,Pomorskie,Słodycze (zestaw),4,25.0,internet
+2026-08-02,Małopolskie,Dynia ozdobna,12,18.0,internet
+2026-08-02,Pomorskie,Słodycze (zestaw),12,25.0,internet
+2026-08-02,Pomorskie,Świeca zapachowa,3,34.5,sklep
+2026-08-02,Mazowieckie,Dynia ozdobna,4,18.0,internet
+2026-08-02,Mazowieckie,Dynia ozdobna,2,18.0,internet
+2026-08-03,Wielkopolskie,Świeca zapachowa,9,34.5,sklep
+2026-08-03,Śląskie,Kostium ducha,10,89.0,internet
+2026-08-03,Małopolskie,Lampion,1,42.0,sklep
+2026-08-04,Pomorskie,Kostium ducha,2,89.0,sklep
+2026-08-04,Małopolskie,Słodycze (zestaw),4,25.0,internet
+2026-08-04,Wielkopolskie,Lampion,10,42.0,internet
+2026-08-04,Wielkopolskie,Dynia ozdobna,12,18.0,sklep
+2026-08-05,Pomorskie,Świeca zapachowa,11,34.5,sklep
+2026-08-05,Pomorskie,Lampion,10,42.0,sklep
+2026-08-05,Pomorskie,Dynia ozdobna,10,18.0,internet
+2026-08-05,Małopolskie,Dynia ozdobna,4,18.0,sklep
+2026-08-05,Wielkopolskie,Lampion,12,42.0,sklep
+2026-08-05,Małopolskie,Dynia ozdobna,2,18.0,sklep
+2026-08-06,Pomorskie,Dynia ozdobna,1,18.0,internet
+2026-08-06,Małopolskie,Świeca zapachowa,11,34.5,sklep
+2026-08-06,Wielkopolskie,Słodycze (zestaw),7,25.0,internet
+2026-08-07,Pomorskie,Świeca zapachowa,1,34.5,internet
+2026-08-07,Mazowieckie,Dynia ozdobna,3,18.0,sklep
+2026-08-07,Małopolskie,Słodycze (zestaw),10,25.0,internet
+2026-08-08,Pomorskie,Słodycze (zestaw),1,25.0,sklep
+2026-08-08,Wielkopolskie,Dynia ozdobna,11,18.0,sklep
+2026-08-08,Wielkopolskie,Słodycze (zestaw),10,25.0,sklep
+2026-08-09,Wielkopolskie,Dynia ozdobna,10,18.0,internet
+2026-08-09,Pomorskie,Lampion,11,42.0,sklep
+2026-08-09,Małopolskie,Słodycze (zestaw),1,25.0,sklep
+2026-08-09,Pomorskie,Słodycze (zestaw),4,25.0,sklep
+2026-08-09,Pomorskie,Świeca zapachowa,2,34.5,sklep
+2026-08-09,Wielkopolskie,Słodycze (zestaw),6,25.0,sklep
+2026-08-09,Małopolskie,Dynia ozdobna,2,18.0,sklep
+2026-08-09,Śląskie,Kostium ducha,5,89.0,internet
+2026-08-10,Pomorskie,Świeca zapachowa,10,34.5,internet
+2026-08-10,Mazowieckie,Świeca zapachowa,2,34.5,sklep
+2026-08-10,Mazowieckie,Dynia ozdobna,11,18.0,sklep
+2026-08-10,Pomorskie,Słodycze (zestaw),8,25.0,internet
+2026-08-10,Wielkopolskie,Słodycze (zestaw),11,25.0,sklep
+2026-08-11,Mazowieckie,Dynia ozdobna,1,18.0,sklep
+2026-08-11,Pomorskie,Świeca zapachowa,1,34.5,sklep
+2026-08-11,Śląskie,Słodycze (zestaw),8,25.0,internet
+2026-08-11,Śląskie,Świeca zapachowa,5,34.5,internet
+2026-08-11,Śląskie,Dynia ozdobna,7,18.0,sklep
+2026-08-11,Pomorskie,Świeca zapachowa,3,34.5,internet
+2026-08-11,Śląskie,Słodycze (zestaw),5,25.0,sklep
+2026-08-11,Pomorskie,Dynia ozdobna,9,18.0,sklep
+2026-08-12,Wielkopolskie,Świeca zapachowa,6,34.5,internet
+2026-08-12,Małopolskie,Dynia ozdobna,6,18.0,sklep
+2026-08-12,Małopolskie,Słodycze (zestaw),2,25.0,sklep
+2026-08-12,Pomorskie,Kostium ducha,11,89.0,internet
+2026-08-12,Mazowieckie,Kostium ducha,9,89.0,sklep
+2026-08-13,Małopolskie,Świeca zapachowa,9,34.5,sklep
+2026-08-13,Małopolskie,Słodycze (zestaw),7,25.0,sklep
+2026-08-13,Małopolskie,Świeca zapachowa,5,34.5,sklep
+2026-08-13,Pomorskie,Kostium ducha,12,89.0,sklep
+2026-08-13,Wielkopolskie,Świeca zapachowa,8,34.5,sklep
+2026-08-13,Pomorskie,Kostium ducha,4,89.0,internet
+2026-08-14,Mazowieckie,Dynia ozdobna,12,18.0,sklep
+2026-08-14,Wielkopolskie,Kostium ducha,11,89.0,sklep
+2026-08-14,Wielkopolskie,Dynia ozdobna,2,18.0,internet
+2026-08-14,Mazowieckie,Kostium ducha,2,89.0,sklep
+2026-08-14,Mazowieckie,Słodycze (zestaw),2,25.0,internet
+2026-08-15,Wielkopolskie,Świeca zapachowa,2,34.5,internet
+2026-08-15,Śląskie,Słodycze (zestaw),8,25.0,sklep
+2026-08-15,Śląskie,Dynia ozdobna,5,18.0,internet
+2026-08-16,Pomorskie,Świeca zapachowa,12,34.5,sklep
+2026-08-16,Śląskie,Lampion,6,42.0,sklep
+2026-08-16,Pomorskie,Dynia ozdobna,4,18.0,sklep
+2026-08-16,Śląskie,Świeca zapachowa,11,34.5,internet
+2026-08-16,Wielkopolskie,Kostium ducha,1,89.0,sklep
+2026-08-16,Mazowieckie,Dynia ozdobna,3,18.0,internet
+2026-08-17,Małopolskie,Kostium ducha,1,89.0,sklep
+2026-08-17,Mazowieckie,Lampion,1,42.0,internet
+2026-08-17,Mazowieckie,Kostium ducha,10,89.0,sklep
+2026-08-17,Mazowieckie,Dynia ozdobna,5,18.0,sklep
+2026-08-17,Małopolskie,Kostium ducha,6,89.0,internet
+2026-08-17,Małopolskie,Słodycze (zestaw),3,25.0,internet
+2026-08-17,Śląskie,Kostium ducha,6,89.0,sklep
+2026-08-17,Mazowieckie,Słodycze (zestaw),4,25.0,sklep
+2026-08-18,Mazowieckie,Lampion,4,42.0,sklep
+2026-08-18,Pomorskie,Świeca zapachowa,6,34.5,sklep
+2026-08-18,Śląskie,Lampion,1,42.0,sklep
+2026-08-18,Pomorskie,Dynia ozdobna,6,18.0,sklep
+2026-08-18,Mazowieckie,Kostium ducha,8,89.0,internet
+2026-08-19,Mazowieckie,Dynia ozdobna,8,18.0,internet
+2026-08-19,Pomorskie,Dynia ozdobna,2,18.0,internet
+2026-08-19,Małopolskie,Lampion,4,42.0,internet
+2026-08-19,Mazowieckie,Lampion,2,42.0,sklep
+2026-08-19,Śląskie,Dynia ozdobna,6,18.0,internet
+2026-08-19,Małopolskie,Lampion,6,42.0,sklep
+2026-08-20,Małopolskie,Słodycze (zestaw),8,25.0,sklep
+2026-08-20,Wielkopolskie,Słodycze (zestaw),7,25.0,sklep
+2026-08-20,Pomorskie,Dynia ozdobna,9,18.0,sklep
+2026-08-21,Małopolskie,Słodycze (zestaw),9,25.0,internet
+2026-08-21,Mazowieckie,Świeca zapachowa,2,34.5,internet
+2026-08-21,Pomorskie,Kostium ducha,8,89.0,sklep
+2026-08-21,Pomorskie,Dynia ozdobna,11,18.0,internet
+2026-08-22,Śląskie,Świeca zapachowa,11,34.5,internet
+2026-08-22,Mazowieckie,Dynia ozdobna,12,18.0,internet
+2026-08-22,Śląskie,Lampion,3,42.0,sklep
+2026-08-23,Mazowieckie,Słodycze (zestaw),11,25.0,internet
+2026-08-23,Wielkopolskie,Dynia ozdobna,11,18.0,sklep
+2026-08-23,Wielkopolskie,Lampion,3,42.0,internet
+2026-08-23,Pomorskie,Świeca zapachowa,6,34.5,sklep
+2026-08-23,Małopolskie,Kostium ducha,12,89.0,sklep
+2026-08-23,Wielkopolskie,Dynia ozdobna,8,18.0,sklep
+2026-08-23,Małopolskie,Lampion,1,42.0,internet
+2026-08-23,Małopolskie,Lampion,4,42.0,internet
+2026-08-24,Wielkopolskie,Kostium ducha,4,89.0,sklep
+2026-08-24,Mazowieckie,Lampion,11,42.0,sklep
+2026-08-24,Śląskie,Dynia ozdobna,8,18.0,sklep
+2026-08-24,Pomorskie,Dynia ozdobna,6,18.0,internet
+2026-08-24,Wielkopolskie,Świeca zapachowa,4,34.5,sklep
+2026-08-24,Małopolskie,Lampion,5,42.0,internet
+2026-08-24,Małopolskie,Kostium ducha,6,89.0,sklep
+2026-08-24,Małopolskie,Lampion,6,42.0,internet
+2026-08-25,Wielkopolskie,Dynia ozdobna,6,18.0,sklep
+2026-08-25,Mazowieckie,Świeca zapachowa,3,34.5,internet
+2026-08-25,Pomorskie,Słodycze (zestaw),8,25.0,internet
+2026-08-25,Śląskie,Świeca zapachowa,4,34.5,sklep
+2026-08-25,Pomorskie,Kostium ducha,3,89.0,sklep
+2026-08-25,Małopolskie,Słodycze (zestaw),10,25.0,internet
+2026-08-25,Małopolskie,Dynia ozdobna,4,18.0,internet
+2026-08-25,Mazowieckie,Świeca zapachowa,10,34.5,internet
+2026-08-26,Wielkopolskie,Kostium ducha,11,89.0,sklep
+2026-08-26,Śląskie,Świeca zapachowa,12,34.5,internet
+2026-08-26,Mazowieckie,Dynia ozdobna,7,18.0,sklep
+2026-08-26,Śląskie,Dynia ozdobna,2,18.0,internet
+2026-08-26,Małopolskie,Świeca zapachowa,7,34.5,sklep
+2026-08-26,Pomorskie,Słodycze (zestaw),5,25.0,sklep
+2026-08-27,Pomorskie,Świeca zapachowa,11,34.5,internet
+2026-08-27,Wielkopolskie,Słodycze (zestaw),4,25.0,internet
+2026-08-27,Wielkopolskie,Dynia ozdobna,5,18.0,internet
+2026-08-27,Śląskie,Świeca zapachowa,11,34.5,sklep
+2026-08-27,Śląskie,Lampion,9,42.0,internet
+2026-08-27,Mazowieckie,Dynia ozdobna,10,18.0,internet
+2026-08-28,Mazowieckie,Kostium ducha,8,89.0,internet
+2026-08-28,Małopolskie,Kostium ducha,8,89.0,internet
+2026-08-28,Pomorskie,Świeca zapachowa,2,34.5,sklep
+2026-08-28,Pomorskie,Słodycze (zestaw),7,25.0,sklep
+2026-08-29,Śląskie,Świeca zapachowa,12,34.5,internet
+2026-08-29,Pomorskie,Lampion,6,42.0,sklep
+2026-08-29,Małopolskie,Świeca zapachowa,5,34.5,sklep
+2026-08-29,Wielkopolskie,Dynia ozdobna,3,18.0,internet
+2026-08-29,Pomorskie,Słodycze (zestaw),11,25.0,sklep
+2026-08-29,Wielkopolskie,Lampion,8,42.0,internet
+2026-08-29,Wielkopolskie,Słodycze (zestaw),6,25.0,internet
+2026-08-29,Śląskie,Lampion,3,42.0,internet
+2026-08-30,Małopolskie,Dynia ozdobna,7,18.0,internet
+2026-08-30,Śląskie,Dynia ozdobna,9,18.0,sklep
+2026-08-30,Wielkopolskie,Świeca zapachowa,4,34.5,internet
+2026-08-30,Śląskie,Kostium ducha,3,89.0,sklep
+2026-08-30,Pomorskie,Słodycze (zestaw),11,25.0,sklep
+2026-08-30,Mazowieckie,Świeca zapachowa,10,34.5,internet
+2026-08-30,Śląskie,Słodycze (zestaw),1,25.0,sklep
+2026-08-30,Małopolskie,Dynia ozdobna,2,18.0,sklep
+2026-08-31,Małopolskie,Świeca zapachowa,3,34.5,internet
+2026-08-31,Mazowieckie,Świeca zapachowa,1,34.5,sklep
+2026-08-31,Mazowieckie,Dynia ozdobna,4,18.0,sklep
+2026-09-01,Mazowieckie,Kostium ducha,9,89.0,internet
+2026-09-01,Śląskie,Kostium ducha,7,89.0,internet
+2026-09-01,Śląskie,Kostium ducha,1,89.0,sklep
+2026-09-01,Małopolskie,Kostium ducha,5,89.0,sklep
+2026-09-01,Wielkopolskie,Dynia ozdobna,1,18.0,internet
+2026-09-01,Śląskie,Świeca zapachowa,6,34.5,internet
+2026-09-02,Wielkopolskie,Świeca zapachowa,9,34.5,sklep
+2026-09-02,Pomorskie,Świeca zapachowa,7,34.5,internet
+2026-09-02,Małopolskie,Dynia ozdobna,5,18.0,sklep
+2026-09-02,Mazowieckie,Lampion,2,42.0,sklep
+2026-09-03,Pomorskie,Lampion,4,42.0,sklep
+2026-09-03,Wielkopolskie,Lampion,7,42.0,sklep
+2026-09-03,Małopolskie,Dynia ozdobna,10,18.0,sklep
+2026-09-03,Pomorskie,Dynia ozdobna,4,18.0,internet
+2026-09-04,Wielkopolskie,Lampion,9,42.0,internet
+2026-09-04,Mazowieckie,Dynia ozdobna,4,18.0,sklep
+2026-09-04,Wielkopolskie,Świeca zapachowa,5,34.5,sklep
+2026-09-04,Wielkopolskie,Lampion,4,42.0,sklep
+2026-09-04,Śląskie,Świeca zapachowa,11,34.5,internet
+2026-09-04,Małopolskie,Świeca zapachowa,1,34.5,sklep
+2026-09-04,Śląskie,Lampion,12,42.0,internet
+2026-09-05,Wielkopolskie,Kostium ducha,12,89.0,internet
+2026-09-05,Wielkopolskie,Dynia ozdobna,6,18.0,sklep
+2026-09-05,Mazowieckie,Kostium ducha,6,89.0,sklep
+2026-09-05,Małopolskie,Świeca zapachowa,11,34.5,sklep
+2026-09-05,Mazowieckie,Lampion,4,42.0,internet
+2026-09-05,Wielkopolskie,Dynia ozdobna,12,18.0,internet
+2026-09-06,Wielkopolskie,Lampion,5,42.0,sklep
+2026-09-06,Mazowieckie,Dynia ozdobna,10,18.0,internet
+2026-09-06,Pomorskie,Lampion,2,42.0,internet
+2026-09-06,Małopolskie,Słodycze (zestaw),8,25.0,internet
+2026-09-06,Pomorskie,Lampion,12,42.0,internet
+2026-09-06,Pomorskie,Słodycze (zestaw),12,25.0,internet
+2026-09-06,Mazowieckie,Słodycze (zestaw),2,25.0,internet
+2026-09-06,Śląskie,Dynia ozdobna,3,18.0,sklep
+2026-09-07,Mazowieckie,Świeca zapachowa,8,34.5,sklep
+2026-09-07,Mazowieckie,Kostium ducha,11,89.0,internet
+2026-09-07,Wielkopolskie,Lampion,2,42.0,sklep
+2026-09-07,Mazowieckie,Lampion,12,42.0,sklep
+2026-09-07,Śląskie,Dynia ozdobna,11,18.0,sklep
+2026-09-07,Mazowieckie,Słodycze (zestaw),12,25.0,sklep
+2026-09-07,Małopolskie,Kostium ducha,9,89.0,internet
+2026-09-08,Małopolskie,Świeca zapachowa,7,34.5,internet
+2026-09-08,Śląskie,Kostium ducha,2,89.0,sklep
+2026-09-08,Wielkopolskie,Lampion,2,42.0,sklep
+2026-09-08,Pomorskie,Kostium ducha,8,89.0,sklep
+2026-09-09,Śląskie,Słodycze (zestaw),8,25.0,internet
+2026-09-09,Małopolskie,Świeca zapachowa,12,34.5,sklep
+2026-09-09,Mazowieckie,Lampion,9,42.0,internet
+2026-09-09,Mazowieckie,Świeca zapachowa,5,34.5,internet
+2026-09-10,Wielkopolskie,Świeca zapachowa,6,34.5,internet
+2026-09-10,Śląskie,Świeca zapachowa,11,34.5,sklep
+2026-09-10,Mazowieckie,Lampion,1,42.0,sklep
+2026-09-10,Śląskie,Słodycze (zestaw),1,25.0,internet
+2026-09-10,Mazowieckie,Słodycze (zestaw),1,25.0,internet
+2026-09-10,Śląskie,Świeca zapachowa,5,34.5,internet
+2026-09-10,Śląskie,Kostium ducha,10,89.0,internet
+2026-09-10,Pomorskie,Lampion,5,42.0,sklep
+2026-09-11,Pomorskie,Dynia ozdobna,11,18.0,sklep
+2026-09-11,Małopolskie,Dynia ozdobna,3,18.0,internet
+2026-09-11,Wielkopolskie,Kostium ducha,11,89.0,internet
+2026-09-11,Pomorskie,Lampion,5,42.0,sklep
+2026-09-12,Śląskie,Słodycze (zestaw),11,25.0,sklep
+2026-09-12,Małopolskie,Kostium ducha,6,89.0,sklep
+2026-09-12,Mazowieckie,Słodycze (zestaw),9,25.0,internet
+2026-09-12,Pomorskie,Kostium ducha,8,89.0,sklep
+2026-09-13,Śląskie,Kostium ducha,4,89.0,sklep
+2026-09-13,Mazowieckie,Dynia ozdobna,6,18.0,sklep
+2026-09-13,Małopolskie,Dynia ozdobna,6,18.0,sklep
+2026-09-13,Mazowieckie,Słodycze (zestaw),8,25.0,sklep
+2026-09-13,Pomorskie,Świeca zapachowa,11,34.5,internet
+2026-09-13,Pomorskie,Kostium ducha,7,89.0,internet
+2026-09-13,Pomorskie,Słodycze (zestaw),6,25.0,internet
+2026-09-13,Śląskie,Kostium ducha,10,89.0,sklep
+2026-09-14,Wielkopolskie,Słodycze (zestaw),2,25.0,internet
+2026-09-14,Pomorskie,Lampion,1,42.0,sklep
+2026-09-14,Małopolskie,Świeca zapachowa,6,34.5,internet
+2026-09-14,Wielkopolskie,Dynia ozdobna,1,18.0,internet
+2026-09-14,Wielkopolskie,Słodycze (zestaw),7,25.0,sklep
+2026-09-14,Pomorskie,Świeca zapachowa,2,34.5,sklep
+2026-09-14,Śląskie,Słodycze (zestaw),9,25.0,internet
+2026-09-15,Wielkopolskie,Świeca zapachowa,1,34.5,sklep
+2026-09-15,Pomorskie,Kostium ducha,3,89.0,internet
+2026-09-15,Pomorskie,Dynia ozdobna,4,18.0,internet
+2026-09-16,Wielkopolskie,Kostium ducha,12,89.0,sklep
+2026-09-16,Wielkopolskie,Lampion,9,42.0,sklep
+2026-09-16,Wielkopolskie,Świeca zapachowa,7,34.5,sklep
+2026-09-16,Mazowieckie,Świeca zapachowa,11,34.5,sklep
+2026-09-16,Śląskie,Słodycze (zestaw),1,25.0,sklep
+2026-09-17,Mazowieckie,Słodycze (zestaw),9,25.0,sklep
+2026-09-17,Pomorskie,Słodycze (zestaw),3,25.0,sklep
+2026-09-17,Małopolskie,Świeca zapachowa,11,34.5,internet
+2026-09-17,Pomorskie,Dynia ozdobna,3,18.0,internet
+2026-09-18,Małopolskie,Kostium ducha,7,89.0,sklep
+2026-09-18,Pomorskie,Słodycze (zestaw),1,25.0,sklep
+2026-09-18,Śląskie,Dynia ozdobna,12,18.0,sklep
+2026-09-18,Wielkopolskie,Świeca zapachowa,5,34.5,sklep
+2026-09-18,Małopolskie,Słodycze (zestaw),4,25.0,sklep
+2026-09-18,Wielkopolskie,Świeca zapachowa,12,34.5,sklep
+2026-09-18,Wielkopolskie,Lampion,12,42.0,sklep
+2026-09-19,Wielkopolskie,Lampion,1,42.0,internet
+2026-09-19,Pomorskie,Dynia ozdobna,2,18.0,sklep
+2026-09-19,Pomorskie,Słodycze (zestaw),3,25.0,internet
+2026-09-19,Małopolskie,Lampion,11,42.0,sklep
+2026-09-19,Śląskie,Słodycze (zestaw),7,25.0,sklep
+2026-09-20,Małopolskie,Świeca zapachowa,7,34.5,internet
+2026-09-20,Pomorskie,Słodycze (zestaw),5,25.0,internet
+2026-09-20,Małopolskie,Świeca zapachowa,8,34.5,sklep
+2026-09-20,Małopolskie,Świeca zapachowa,10,34.5,internet
+2026-09-21,Śląskie,Słodycze (zestaw),3,25.0,internet
+2026-09-21,Pomorskie,Lampion,10,42.0,internet
+2026-09-21,Śląskie,Lampion,8,42.0,sklep
+2026-09-22,Wielkopolskie,Słodycze (zestaw),3,25.0,sklep
+2026-09-22,Mazowieckie,Świeca zapachowa,6,34.5,internet
+2026-09-22,Pomorskie,Dynia ozdobna,2,18.0,internet
+2026-09-22,Śląskie,Lampion,6,42.0,internet
+2026-09-22,Pomorskie,Świeca zapachowa,10,34.5,sklep
+2026-09-22,Pomorskie,Dynia ozdobna,6,18.0,internet
+2026-09-23,Śląskie,Słodycze (zestaw),3,25.0,sklep
+2026-09-23,Śląskie,Świeca zapachowa,11,34.5,internet
+2026-09-23,Wielkopolskie,Kostium ducha,10,89.0,sklep
+2026-09-23,Małopolskie,Kostium ducha,9,89.0,internet
+2026-09-23,Śląskie,Świeca zapachowa,2,34.5,sklep
+2026-09-23,Wielkopolskie,Dynia ozdobna,6,18.0,internet
+2026-09-24,Śląskie,Lampion,6,42.0,sklep
+2026-09-24,Wielkopolskie,Kostium ducha,9,89.0,internet
+2026-09-24,Mazowieckie,Lampion,6,42.0,internet
+2026-09-24,Wielkopolskie,Lampion,10,42.0,internet
+2026-09-24,Śląskie,Dynia ozdobna,7,18.0,sklep
+2026-09-24,Wielkopolskie,Kostium ducha,1,89.0,internet
+2026-09-25,Pomorskie,Kostium ducha,3,89.0,internet
+2026-09-25,Mazowieckie,Dynia ozdobna,4,18.0,sklep
+2026-09-25,Małopolskie,Dynia ozdobna,3,18.0,internet
+2026-09-25,Małopolskie,Świeca zapachowa,1,34.5,internet
+2026-09-25,Mazowieckie,Kostium ducha,12,89.0,sklep
+2026-09-26,Wielkopolskie,Słodycze (zestaw),2,25.0,sklep
+2026-09-26,Małopolskie,Lampion,1,42.0,internet
+2026-09-26,Pomorskie,Lampion,2,42.0,sklep
+2026-09-26,Małopolskie,Słodycze (zestaw),5,25.0,sklep
+2026-09-27,Małopolskie,Dynia ozdobna,2,18.0,sklep
+2026-09-27,Śląskie,Dynia ozdobna,12,18.0,sklep
+2026-09-27,Pomorskie,Dynia ozdobna,3,18.0,sklep
+2026-09-28,Wielkopolskie,Świeca zapachowa,6,34.5,sklep
+2026-09-28,Mazowieckie,Kostium ducha,7,89.0,internet
+2026-09-28,Pomorskie,Lampion,5,42.0,internet
+2026-09-28,Pomorskie,Świeca zapachowa,1,34.5,sklep
+2026-09-29,Małopolskie,Świeca zapachowa,6,34.5,sklep
+2026-09-29,Wielkopolskie,Lampion,10,42.0,sklep
+2026-09-29,Wielkopolskie,Lampion,10,42.0,sklep
+2026-09-29,Pomorskie,Lampion,1,42.0,internet
+2026-09-30,Wielkopolskie,Lampion,3,42.0,sklep
+2026-09-30,Wielkopolskie,Słodycze (zestaw),3,25.0,internet
+2026-09-30,Pomorskie,Świeca zapachowa,3,34.5,sklep
+2026-09-30,Wielkopolskie,Słodycze (zestaw),1,25.0,internet
+2026-09-30,Małopolskie,Lampion,10,42.0,internet
+2026-09-30,Śląskie,Lampion,8,42.0,sklep
+2026-09-30,Pomorskie,Kostium ducha,4,89.0,internet
+2026-09-30,Wielkopolskie,Świeca zapachowa,1,34.5,internet
+2026-10-01,Śląskie,Słodycze (zestaw),30,25.0,internet
+2026-10-01,Wielkopolskie,Świeca zapachowa,27,34.5,internet
+2026-10-01,Mazowieckie,Kostium ducha,24,89.0,sklep
+2026-10-01,Pomorskie,Świeca zapachowa,6,34.5,internet
+2026-10-01,Wielkopolskie,Kostium ducha,27,89.0,internet
+2026-10-02,Mazowieckie,Dynia ozdobna,30,18.0,sklep
+2026-10-02,Pomorskie,Dynia ozdobna,15,18.0,sklep
+2026-10-02,Pomorskie,Słodycze (zestaw),24,25.0,internet
+2026-10-02,Pomorskie,Dynia ozdobna,33,18.0,internet
+2026-10-02,Mazowieckie,Dynia ozdobna,24,18.0,internet
+2026-10-02,Mazowieckie,Świeca zapachowa,33,34.5,internet
+2026-10-02,Śląskie,Kostium ducha,12,89.0,internet
+2026-10-02,Śląskie,Słodycze (zestaw),24,25.0,internet
+2026-10-03,Mazowieckie,Lampion,3,42.0,sklep
+2026-10-03,Mazowieckie,Kostium ducha,30,89.0,sklep
+2026-10-03,Pomorskie,Kostium ducha,12,89.0,internet
+2026-10-03,Mazowieckie,Słodycze (zestaw),24,25.0,internet
+2026-10-03,Mazowieckie,Dynia ozdobna,6,18.0,sklep
+2026-10-03,Pomorskie,Świeca zapachowa,30,34.5,internet
+2026-10-04,Śląskie,Dynia ozdobna,18,18.0,sklep
+2026-10-04,Mazowieckie,Świeca zapachowa,33,34.5,sklep
+2026-10-04,Śląskie,Słodycze (zestaw),18,25.0,sklep
+2026-10-04,Małopolskie,Świeca zapachowa,24,34.5,sklep
+2026-10-04,Śląskie,Kostium ducha,3,89.0,sklep
+2026-10-04,Wielkopolskie,Świeca zapachowa,15,34.5,sklep
+2026-10-04,Wielkopolskie,Lampion,30,42.0,internet
+2026-10-04,Mazowieckie,Świeca zapachowa,21,34.5,internet
+2026-10-05,Pomorskie,Dynia ozdobna,12,18.0,internet
+2026-10-05,Wielkopolskie,Lampion,12,42.0,internet
+2026-10-05,Wielkopolskie,Świeca zapachowa,33,34.5,sklep
+2026-10-05,Śląskie,Słodycze (zestaw),21,25.0,sklep
+2026-10-05,Pomorskie,Świeca zapachowa,24,34.5,internet
+2026-10-06,Śląskie,Słodycze (zestaw),6,25.0,internet
+2026-10-06,Śląskie,Słodycze (zestaw),9,25.0,internet
+2026-10-06,Śląskie,Dynia ozdobna,21,18.0,sklep
+2026-10-06,Pomorskie,Świeca zapachowa,30,34.5,internet
+2026-10-06,Pomorskie,Kostium ducha,30,89.0,sklep
+2026-10-07,Śląskie,Dynia ozdobna,12,18.0,internet
+2026-10-07,Śląskie,Dynia ozdobna,24,18.0,internet
+2026-10-07,Śląskie,Słodycze (zestaw),24,25.0,sklep
+2026-10-07,Małopolskie,Słodycze (zestaw),18,25.0,sklep
+2026-10-07,Małopolskie,Słodycze (zestaw),15,25.0,internet
+2026-10-08,Wielkopolskie,Świeca zapachowa,6,34.5,internet
+2026-10-08,Małopolskie,Dynia ozdobna,27,18.0,sklep
+2026-10-08,Wielkopolskie,Świeca zapachowa,27,34.5,sklep
+2026-10-08,Mazowieckie,Świeca zapachowa,33,34.5,internet
+2026-10-08,Małopolskie,Dynia ozdobna,33,18.0,sklep
+2026-10-08,Mazowieckie,Kostium ducha,21,89.0,sklep
+2026-10-08,Śląskie,Kostium ducha,30,89.0,sklep
+2026-10-08,Pomorskie,Słodycze (zestaw),18,25.0,sklep
+2026-10-09,Małopolskie,Słodycze (zestaw),9,25.0,sklep
+2026-10-09,Małopolskie,Dynia ozdobna,6,18.0,internet
+2026-10-09,Wielkopolskie,Słodycze (zestaw),18,25.0,internet
+2026-10-10,Mazowieckie,Dynia ozdobna,30,18.0,internet
+2026-10-10,Śląskie,Dynia ozdobna,27,18.0,sklep
+2026-10-10,Śląskie,Lampion,33,42.0,sklep
+2026-10-10,Mazowieckie,Dynia ozdobna,21,18.0,internet
+2026-10-10,Śląskie,Świeca zapachowa,36,34.5,internet
+2026-10-10,Małopolskie,Słodycze (zestaw),18,25.0,internet
+2026-10-11,Małopolskie,Słodycze (zestaw),9,25.0,sklep
+2026-10-11,Małopolskie,Świeca zapachowa,6,34.5,sklep
+2026-10-11,Śląskie,Świeca zapachowa,27,34.5,sklep
+2026-10-11,Pomorskie,Słodycze (zestaw),21,25.0,internet
+2026-10-11,Mazowieckie,Słodycze (zestaw),36,25.0,sklep
+2026-10-12,Małopolskie,Lampion,12,42.0,sklep
+2026-10-12,Śląskie,Świeca zapachowa,12,34.5,sklep
+2026-10-12,Wielkopolskie,Lampion,21,42.0,internet
+2026-10-12,Pomorskie,Kostium ducha,3,89.0,sklep
+2026-10-13,Pomorskie,Dynia ozdobna,27,18.0,sklep
+2026-10-13,Wielkopolskie,Dynia ozdobna,9,18.0,sklep
+2026-10-13,Śląskie,Dynia ozdobna,6,18.0,internet
+2026-10-13,Śląskie,Dynia ozdobna,33,18.0,sklep
+2026-10-13,Śląskie,Lampion,6,42.0,internet
+2026-10-13,Małopolskie,Świeca zapachowa,9,34.5,internet
+2026-10-13,Śląskie,Lampion,6,42.0,internet
+2026-10-13,Wielkopolskie,Świeca zapachowa,3,34.5,internet
+2026-10-14,Mazowieckie,Świeca zapachowa,15,34.5,sklep
+2026-10-14,Mazowieckie,Kostium ducha,6,89.0,sklep
+2026-10-14,Pomorskie,Słodycze (zestaw),9,25.0,sklep
+2026-10-15,Pomorskie,Świeca zapachowa,15,34.5,internet
+2026-10-15,Małopolskie,Dynia ozdobna,24,18.0,sklep
+2026-10-15,Pomorskie,Świeca zapachowa,6,34.5,sklep
+2026-10-15,Mazowieckie,Lampion,27,42.0,internet
+2026-10-15,Śląskie,Kostium ducha,12,89.0,internet
+2026-10-15,Małopolskie,Kostium ducha,3,89.0,internet
+2026-10-15,Pomorskie,Lampion,6,42.0,sklep
+2026-10-15,Mazowieckie,Dynia ozdobna,3,18.0,sklep
+2026-10-16,Pomorskie,Dynia ozdobna,27,18.0,internet
+2026-10-16,Małopolskie,Kostium ducha,6,89.0,internet
+2026-10-16,Pomorskie,Słodycze (zestaw),15,25.0,sklep
+2026-10-16,Pomorskie,Słodycze (zestaw),9,25.0,sklep
+2026-10-16,Pomorskie,Dynia ozdobna,21,18.0,sklep
+2026-10-17,Małopolskie,Dynia ozdobna,30,18.0,sklep
+2026-10-17,Mazowieckie,Dynia ozdobna,18,18.0,sklep
+2026-10-17,Małopolskie,Dynia ozdobna,30,18.0,internet
+2026-10-17,Małopolskie,Kostium ducha,36,89.0,internet
+2026-10-17,Śląskie,Lampion,9,42.0,internet
+2026-10-17,Małopolskie,Lampion,3,42.0,sklep
+2026-10-17,Wielkopolskie,Dynia ozdobna,36,18.0,internet
+2026-10-17,Małopolskie,Świeca zapachowa,33,34.5,internet
+2026-10-18,Mazowieckie,Dynia ozdobna,21,18.0,sklep
+2026-10-18,Mazowieckie,Świeca zapachowa,9,34.5,sklep
+2026-10-18,Mazowieckie,Kostium ducha,15,89.0,internet
+2026-10-18,Wielkopolskie,Słodycze (zestaw),24,25.0,sklep
+2026-10-18,Wielkopolskie,Kostium ducha,12,89.0,internet
+2026-10-18,Małopolskie,Kostium ducha,18,89.0,internet
+2026-10-18,Wielkopolskie,Słodycze (zestaw),30,25.0,sklep
+2026-10-18,Śląskie,Słodycze (zestaw),33,25.0,sklep
+2026-10-19,Pomorskie,Dynia ozdobna,21,18.0,sklep
+2026-10-19,Wielkopolskie,Dynia ozdobna,15,18.0,internet
+2026-10-19,Pomorskie,Dynia ozdobna,18,18.0,internet
+2026-10-19,Wielkopolskie,Świeca zapachowa,27,34.5,internet
+2026-10-19,Śląskie,Słodycze (zestaw),15,25.0,internet
+2026-10-19,Śląskie,Dynia ozdobna,24,18.0,internet
+2026-10-19,Pomorskie,Świeca zapachowa,18,34.5,internet
+2026-10-20,Mazowieckie,Kostium ducha,18,89.0,sklep
+2026-10-20,Pomorskie,Świeca zapachowa,33,34.5,internet
+2026-10-20,Mazowieckie,Kostium ducha,15,89.0,sklep
+2026-10-20,Śląskie,Kostium ducha,21,89.0,sklep
+2026-10-20,Wielkopolskie,Lampion,27,42.0,internet
+2026-10-20,Śląskie,Świeca zapachowa,18,34.5,internet
+2026-10-21,Pomorskie,Świeca zapachowa,6,34.5,internet
+2026-10-21,Śląskie,Świeca zapachowa,24,34.5,sklep
+2026-10-21,Śląskie,Świeca zapachowa,21,34.5,internet
+2026-10-22,Małopolskie,Lampion,18,42.0,sklep
+2026-10-22,Małopolskie,Świeca zapachowa,18,34.5,internet
+2026-10-22,Małopolskie,Dynia ozdobna,18,18.0,sklep
+2026-10-22,Mazowieckie,Świeca zapachowa,21,34.5,internet
+2026-10-22,Małopolskie,Świeca zapachowa,18,34.5,sklep
+2026-10-23,Pomorskie,Kostium ducha,27,89.0,internet
+2026-10-23,Śląskie,Słodycze (zestaw),3,25.0,internet
+2026-10-23,Małopolskie,Lampion,21,42.0,sklep
+2026-10-24,Mazowieckie,Kostium ducha,18,89.0,internet
+2026-10-24,Mazowieckie,Świeca zapachowa,30,34.5,sklep
+2026-10-24,Mazowieckie,Świeca zapachowa,30,34.5,sklep
+2026-10-24,Mazowieckie,Kostium ducha,12,89.0,sklep
+2026-10-24,Pomorskie,Świeca zapachowa,30,34.5,internet
+2026-10-24,Mazowieckie,Dynia ozdobna,30,18.0,internet
+2026-10-24,Wielkopolskie,Słodycze (zestaw),6,25.0,internet
+2026-10-24,Małopolskie,Dynia ozdobna,12,18.0,internet
+2026-10-25,Śląskie,Lampion,3,42.0,sklep
+2026-10-25,Śląskie,Dynia ozdobna,21,18.0,sklep
+2026-10-25,Małopolskie,Lampion,18,42.0,sklep
+2026-10-25,Mazowieckie,Lampion,27,42.0,internet
+2026-10-25,Pomorskie,Kostium ducha,36,89.0,internet
+2026-10-26,Mazowieckie,Dynia ozdobna,33,18.0,internet
+2026-10-26,Małopolskie,Lampion,30,42.0,sklep
+2026-10-26,Pomorskie,Słodycze (zestaw),27,25.0,internet
+2026-10-26,Mazowieckie,Świeca zapachowa,15,34.5,internet
+2026-10-26,Śląskie,Dynia ozdobna,24,18.0,sklep
+2026-10-26,Mazowieckie,Dynia ozdobna,6,18.0,sklep
+2026-10-27,Mazowieckie,Kostium ducha,21,89.0,internet
+2026-10-27,Pomorskie,Słodycze (zestaw),15,25.0,internet
+2026-10-27,Śląskie,Słodycze (zestaw),36,25.0,sklep
+2026-10-27,Wielkopolskie,Dynia ozdobna,27,18.0,internet
+2026-10-28,Śląskie,Kostium ducha,27,89.0,sklep
+2026-10-28,Pomorskie,Świeca zapachowa,18,34.5,internet
+2026-10-28,Wielkopolskie,Słodycze (zestaw),27,25.0,internet
+2026-10-29,Wielkopolskie,Dynia ozdobna,36,18.0,internet
+2026-10-29,Śląskie,Dynia ozdobna,33,18.0,internet
+2026-10-29,Śląskie,Świeca zapachowa,33,34.5,sklep
+2026-10-29,Małopolskie,Kostium ducha,21,89.0,sklep
+2026-10-29,Małopolskie,Kostium ducha,21,89.0,sklep
+2026-10-30,Wielkopolskie,Świeca zapachowa,24,34.5,internet
+2026-10-30,Śląskie,Lampion,12,42.0,sklep
+2026-10-30,Małopolskie,Lampion,18,42.0,sklep
+2026-10-30,Pomorskie,Dynia ozdobna,12,18.0,internet
+2026-10-31,Mazowieckie,Lampion,24,42.0,internet
+2026-10-31,Wielkopolskie,Świeca zapachowa,9,34.5,sklep
+2026-10-31,Małopolskie,Świeca zapachowa,15,34.5,sklep
+2026-10-31,Małopolskie,Słodycze (zestaw),33,25.0,internet
+2026-10-31,Wielkopolskie,Kostium ducha,27,89.0,sklep
+2026-10-31,Wielkopolskie,Lampion,6,42.0,sklep
+2026-10-31,Śląskie,Kostium ducha,15,89.0,sklep
+2026-10-31,Wielkopolskie,Słodycze (zestaw),30,25.0,sklep
