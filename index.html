@@ -1,0 +1,414 @@
+<!doctype html>
+<html lang="pl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="description" content="Halloweenowe kółko i krzyżyk: dynie kontra duchy.">
+<title>Dynia kontra Duch</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Creepster&family=Grenze:wght@400;600;700&display=swap">
+<style>
+/* Layout: one centered "graveyard plot" column — title, scoreboard, 3x3 board of grave stones, controls; moon + bats behind. Single dark look by choice. */
+:root {
+  --night: #120d1c;
+  --night-2: #1d1530;
+  --stone: #2b2340;
+  --stone-edge: #3d3358;
+  --fog: #b9b0d4;
+  --text: #ece6f7;
+  --muted: #9a90b5;
+  --pumpkin: #f07a1a;
+  --pumpkin-dark: #c4570b;
+  --stem: #4f7a2a;
+  --glow: #ffd36b;
+  --ghost: #eef0ff;
+  --ghost-shade: #c7cbe8;
+  --blood: #c2293a;
+  --font-display: "Creepster", "Grenze", Georgia, serif;
+  --font-body: "Grenze", Georgia, "Times New Roman", serif;
+  color-scheme: dark;
+}
+* { box-sizing: border-box; }
+html, body { min-height: 100%; }
+body {
+  margin: 0;
+  background:
+    radial-gradient(ellipse 80% 50% at 50% 110%, rgba(185,176,212,.18), transparent 70%),
+    radial-gradient(ellipse 120% 80% at 50% -10%, var(--night-2), var(--night) 70%);
+  background-color: var(--night);
+  color: var(--text);
+  font-family: var(--font-body);
+  font-size: 18px;
+  line-height: 1.4;
+  overflow-x: hidden;
+}
+.sky { position: fixed; inset: 0; pointer-events: none; overflow: hidden; z-index: 0; }
+.moon {
+  position: absolute; top: 6%; right: 8%;
+  width: clamp(70px, 14vw, 140px); aspect-ratio: 1; border-radius: 50%;
+  background: radial-gradient(circle at 38% 36%, #fffbe6, #f5e6a8 55%, #d9c27a);
+  box-shadow: 0 0 60px 18px rgba(255, 230, 150, .18);
+}
+.moon::after {
+  content: ""; position: absolute; width: 22%; height: 22%; border-radius: 50%;
+  left: 55%; top: 50%; background: rgba(160, 140, 80, .25);
+  box-shadow: -30px -22px 0 -4px rgba(160,140,80,.2);
+}
+.bat { position: absolute; width: 46px; fill: #07050c; opacity: .85; animation: fly linear infinite; }
+.bat svg { width: 100%; display: block; animation: flap .28s ease-in-out infinite alternate; transform-origin: center; }
+.bat:nth-child(2) { top: 14%; animation-duration: 19s; animation-delay: -4s; }
+.bat:nth-child(3) { top: 28%; width: 30px; animation-duration: 26s; animation-delay: -15s; }
+.bat:nth-child(4) { top: 8%;  width: 22px; animation-duration: 32s; animation-delay: -9s; }
+@keyframes fly {
+  0%   { transform: translate(-80px, 0); }
+  50%  { transform: translate(55vw, 40px); }
+  100% { transform: translate(110vw, -10px); }
+}
+@keyframes flap { from { transform: scaleY(1); } to { transform: scaleY(.45); } }
+
+main {
+  position: relative; z-index: 1;
+  max-width: 520px; margin: 0 auto;
+  padding-block: 28px 40px;
+  padding-left: max(16px, env(safe-area-inset-left, 0px));
+  padding-right: max(16px, env(safe-area-inset-right, 0px));
+  display: flex; flex-direction: column; gap: 20px;
+}
+header { text-align: center; }
+h1 {
+  font-family: var(--font-display); font-weight: 400;
+  font-size: clamp(2.6rem, 11vw, 4.2rem); line-height: .95; margin: 0;
+  letter-spacing: .02em; text-wrap: balance;
+  color: var(--pumpkin);
+  text-shadow: 0 0 18px rgba(240,122,26,.45), 0 3px 0 #5a2405;
+}
+h1 .vs { color: var(--muted); font-size: .5em; vertical-align: middle; margin: 0 .2em; text-shadow: none; }
+h1 .ghost-word { color: var(--ghost); text-shadow: 0 0 18px rgba(238,240,255,.4), 0 3px 0 #3a3560; }
+.tagline { margin: 6px 0 0; color: var(--muted); font-size: .95rem; letter-spacing: .14em; text-transform: uppercase; }
+
+.controls { display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; }
+.seg { display: inline-flex; background: var(--night); border: 1px solid var(--stone-edge); border-radius: 999px; padding: 3px; }
+.seg button {
+  font: 600 .95rem var(--font-body); color: var(--muted);
+  background: transparent; border: 0; border-radius: 999px; padding: 6px 14px; cursor: pointer;
+}
+.seg button[aria-pressed="true"] { background: var(--stone); color: var(--text); box-shadow: inset 0 0 0 1px var(--stone-edge); }
+.seg button:hover { color: var(--text); }
+
+.score {
+  display: grid; grid-template-columns: 1fr auto 1fr; align-items: center; gap: 12px;
+  font-variant-numeric: tabular-nums;
+}
+.side { display: flex; align-items: center; gap: 10px; padding: 8px 12px; border-radius: 14px; border: 1px solid transparent; transition: border-color .2s, background .2s; }
+.side.right { justify-content: flex-end; text-align: right; }
+.side.active { border-color: var(--stone-edge); background: rgba(43,35,64,.6); }
+.side svg { width: 38px; height: 38px; flex: none; }
+.side .name { font-size: .85rem; color: var(--muted); letter-spacing: .08em; text-transform: uppercase; }
+.side .pts { font-size: 1.8rem; font-weight: 700; line-height: 1; }
+.side.p .pts { color: var(--pumpkin); }
+.side.g .pts { color: var(--ghost); }
+.draws { text-align: center; color: var(--muted); font-size: .85rem; letter-spacing: .08em; text-transform: uppercase; }
+.draws b { display: block; font-size: 1.3rem; color: var(--fog); letter-spacing: 0; }
+
+.status {
+  text-align: center; min-height: 1.6em; font-size: 1.35rem; font-weight: 600;
+}
+.status.win-p { color: var(--pumpkin); }
+.status.win-g { color: var(--ghost); }
+.status.draw { color: var(--fog); }
+
+.board-wrap { position: relative; width: min(100%, 420px); aspect-ratio: 1; margin: 0 auto; max-width: 100%; }
+.board { display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; width: 100%; height: 100%; }
+.cell {
+  position: relative; border: 0; padding: 10%; cursor: pointer;
+  background: linear-gradient(180deg, var(--stone-edge), var(--stone) 40%, #221b33);
+  border-radius: 46% 46% 10px 10px / 34% 34% 10px 10px;
+  box-shadow: inset 0 -6px 0 rgba(0,0,0,.25), 0 6px 14px rgba(0,0,0,.45);
+  transition: transform .15s ease, box-shadow .15s ease;
+  display: grid; place-items: center;
+}
+.cell::before {
+  content: "R.I.P."; position: absolute; top: 16%; left: 0; right: 0; text-align: center;
+  font: 600 clamp(.6rem, 2.6vw, .85rem) var(--font-body); letter-spacing: .18em; color: rgba(185,176,212,.22);
+}
+.cell:not(:disabled):hover { transform: translateY(-3px); box-shadow: inset 0 -6px 0 rgba(0,0,0,.25), 0 10px 18px rgba(0,0,0,.5), 0 0 0 2px rgba(255,211,107,.25); }
+.cell:focus-visible { outline: 3px solid var(--glow); outline-offset: 3px; }
+.cell:disabled { cursor: default; }
+.cell.filled::before { opacity: 0; }
+.cell svg { width: 100%; height: 100%; overflow: visible; animation: rise .38s cubic-bezier(.2,1.4,.4,1) both; }
+.cell.win { box-shadow: inset 0 -6px 0 rgba(0,0,0,.25), 0 0 0 3px var(--glow), 0 0 28px rgba(255,211,107,.45); }
+.cell.win svg { animation: rise .38s cubic-bezier(.2,1.4,.4,1) both, bob 1.2s ease-in-out .4s infinite alternate; }
+@keyframes rise { from { transform: translateY(40%) scale(.3); opacity: 0; } to { transform: none; opacity: 1; } }
+@keyframes bob { to { transform: translateY(-6%); } }
+.pumpkin .face { animation: flicker 2.4s infinite; }
+@keyframes flicker { 0%,100% { opacity: 1; } 45% { opacity: .82; } 50% { opacity: .65; } 55% { opacity: .9; } }
+
+.strike { position: absolute; inset: 0; width: 100%; height: 100%; pointer-events: none; overflow: visible; }
+.strike line {
+  stroke: var(--blood); stroke-width: 9; stroke-linecap: round;
+  filter: drop-shadow(0 0 6px rgba(194,41,58,.8));
+  stroke-dasharray: 400; stroke-dashoffset: 400; animation: draw .5s ease-out .15s forwards;
+}
+@keyframes draw { to { stroke-dashoffset: 0; } }
+
+.actions { display: flex; gap: 10px; justify-content: center; flex-wrap: wrap; }
+.btn {
+  font: 700 1.05rem var(--font-body); letter-spacing: .04em;
+  padding: 10px 20px; border-radius: 12px; cursor: pointer; border: 1px solid var(--stone-edge);
+  background: var(--stone); color: var(--text);
+}
+.btn.primary { background: var(--pumpkin); border-color: var(--pumpkin-dark); color: #2a1102; box-shadow: 0 4px 0 var(--pumpkin-dark), 0 0 22px rgba(240,122,26,.35); }
+.btn.primary:active { transform: translateY(2px); box-shadow: 0 2px 0 var(--pumpkin-dark); }
+.btn:hover { filter: brightness(1.1); }
+.btn:focus-visible, .seg button:focus-visible { outline: 3px solid var(--glow); outline-offset: 2px; }
+.hint { text-align: center; color: var(--muted); font-size: .9rem; margin: 0; }
+
+@media (max-width: 420px) {
+  .side svg { width: 30px; height: 30px; }
+  .side { padding: 6px 8px; gap: 6px; }
+  .board { gap: 8px; }
+}
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { animation: none !important; transition: none !important; }
+  .strike line { stroke-dashoffset: 0; }
+  .bat { display: none; }
+}
+[hidden] { display: none !important; }
+img { max-width: 100%; }
+</style>
+</head>
+<body>
+
+<div class="sky" aria-hidden="true">
+  <div class="moon"></div>
+  <div class="bat"><svg viewBox="0 0 64 28"><path d="M32 10c2-4 4-5 4-5l1 4c4-3 10-5 14-4-3 2-4 5-3 8 3-2 7-2 10 0-5 1-8 5-9 9-3-3-8-4-12-2-2 0-3 2-5 4-2-2-3-4-5-4-4-2-9-1-12 2-1-4-4-8-9-9 3-2 7-2 10 0 1-3 0-6-3-8 4-1 10 1 14 4l1-4s2 1 4 5z"/></svg></div>
+  <div class="bat"><svg viewBox="0 0 64 28"><path d="M32 10c2-4 4-5 4-5l1 4c4-3 10-5 14-4-3 2-4 5-3 8 3-2 7-2 10 0-5 1-8 5-9 9-3-3-8-4-12-2-2 0-3 2-5 4-2-2-3-4-5-4-4-2-9-1-12 2-1-4-4-8-9-9 3-2 7-2 10 0 1-3 0-6-3-8 4-1 10 1 14 4l1-4s2 1 4 5z"/></svg></div>
+  <div class="bat"><svg viewBox="0 0 64 28"><path d="M32 10c2-4 4-5 4-5l1 4c4-3 10-5 14-4-3 2-4 5-3 8 3-2 7-2 10 0-5 1-8 5-9 9-3-3-8-4-12-2-2 0-3 2-5 4-2-2-3-4-5-4-4-2-9-1-12 2-1-4-4-8-9-9 3-2 7-2 10 0 1-3 0-6-3-8 4-1 10 1 14 4l1-4s2 1 4 5z"/></svg></div>
+</div>
+
+<main>
+  <header>
+    <h1>Dynia<span class="vs">vs</span><span class="ghost-word">Duch</span></h1>
+    <p class="tagline">Kółko i krzyżyk · Noc 31 października</p>
+  </header>
+
+  <div class="controls">
+    <div class="seg" role="group" aria-label="Tryb gry">
+      <button type="button" id="mode-cpu" data-mode="cpu">Z komputerem</button>
+      <button type="button" id="mode-pvp" data-mode="pvp">2 graczy</button>
+    </div>
+    <div class="seg" role="group" aria-label="Poziom trudności" id="levels">
+      <button type="button" id="lvl-easy" data-level="easy">Łatwy</button>
+      <button type="button" id="lvl-mid" data-level="mid">Średni</button>
+      <button type="button" id="lvl-hard" data-level="hard">Trudny</button>
+    </div>
+  </div>
+
+  <section class="score" aria-label="Wynik">
+    <div class="side p" id="side-p">
+      <svg viewBox="0 0 100 100" aria-hidden="true"><use href="#pumpkin"/></svg>
+      <div><div class="name" id="name-p">Ty</div><div class="pts" id="pts-p">0</div></div>
+    </div>
+    <div class="draws">Remisy<b id="pts-d">0</b></div>
+    <div class="side g right" id="side-g">
+      <div><div class="name" id="name-g">Komputer</div><div class="pts" id="pts-g">0</div></div>
+      <svg viewBox="0 0 100 100" aria-hidden="true"><use href="#ghost"/></svg>
+    </div>
+  </section>
+
+  <div class="status" id="status" role="status" aria-live="polite"></div>
+
+  <div class="board-wrap">
+    <div class="board" id="board"></div>
+    <svg class="strike" id="strike" viewBox="0 0 300 300" aria-hidden="true"></svg>
+  </div>
+
+  <div class="actions">
+    <button type="button" class="btn primary" id="again">Nowa runda</button>
+    <button type="button" class="btn" id="reset">Zeruj wynik</button>
+  </div>
+  <p class="hint">Dynia to krzyżyk, Duch to kółko. Kto zaczyna, zmienia się co rundę.</p>
+</main>
+
+<svg width="0" height="0" style="position:absolute" aria-hidden="true">
+  <defs>
+    <g id="pumpkin" class="pumpkin">
+      <path d="M50 26 C48 16 52 9 60 6" stroke="#4f7a2a" stroke-width="6" fill="none" stroke-linecap="round"/>
+      <path d="M58 12 c8 -6 16 -2 18 4 c-8 0 -12 -2 -18 -4z" fill="#6c9c38"/>
+      <ellipse cx="30" cy="60" rx="22" ry="30" fill="#c4570b"/>
+      <ellipse cx="70" cy="60" rx="22" ry="30" fill="#c4570b"/>
+      <ellipse cx="50" cy="60" rx="25" ry="33" fill="#f07a1a"/>
+      <path d="M50 28 v64" stroke="#d9650f" stroke-width="2" opacity=".6"/>
+      <g class="face" fill="#ffd36b">
+        <polygon points="30,56 42,56 36,45"/>
+        <polygon points="58,56 70,56 64,45"/>
+        <polygon points="46,66 54,66 50,59"/>
+        <path d="M26 72 L32 70 L36 76 L42 71 L48 77 L54 71 L60 77 L66 71 L70 76 L74 70 C70 84 56 88 50 88 C44 88 30 84 26 72z"/>
+      </g>
+    </g>
+    <g id="ghost">
+      <path d="M22 90 V48 a28 28 0 0 1 56 0 V90 l-9 -8 -9 8 -10 -8 -10 8 -9 -8z" fill="#eef0ff"/>
+      <path d="M66 26 a28 28 0 0 1 12 22 V90 l-9 -8 V48 a28 28 0 0 0 -3 -22z" fill="#c7cbe8"/>
+      <ellipse cx="40" cy="48" rx="5.5" ry="8" fill="#120d1c"/>
+      <ellipse cx="60" cy="48" rx="5.5" ry="8" fill="#120d1c"/>
+      <ellipse cx="50" cy="66" rx="6" ry="8" fill="#120d1c"/>
+      <ellipse cx="32" cy="58" rx="4" ry="2.5" fill="#ffb3c4" opacity=".6"/>
+      <ellipse cx="68" cy="58" rx="4" ry="2.5" fill="#ffb3c4" opacity=".6"/>
+    </g>
+  </defs>
+</svg>
+
+<script>
+(() => {
+  const LINES = [[0,1,2],[3,4,5],[6,7,8],[0,3,6],[1,4,7],[2,5,8],[0,4,8],[2,4,6]];
+  const NAMES = { P: 'Dynia', G: 'Duch' };
+  const $ = (id) => document.getElementById(id);
+  const boardEl = $('board'), statusEl = $('status'), strikeEl = $('strike');
+
+  let s = {
+    board: Array(9).fill(null), turn: 'P', starter: 'P',
+    mode: 'cpu', level: 'hard', score: { P: 0, G: 0, D: 0 },
+    over: false, win: null, thinking: false
+  };
+  let cpuTimer = null;
+
+  const other = (p) => p === 'P' ? 'G' : 'P';
+  function winnerOf(b) {
+    for (const line of LINES) {
+      const [a, c, d] = line;
+      if (b[a] && b[a] === b[c] && b[a] === b[d]) return { p: b[a], line };
+    }
+    return null;
+  }
+  const full = (b) => b.every(Boolean);
+
+  // Minimax for the ghost (computer). Positive = good for G.
+  function minimax(b, player, depth) {
+    const w = winnerOf(b);
+    if (w) return { score: w.p === 'G' ? 10 - depth : depth - 10 };
+    if (full(b)) return { score: 0 };
+    let best = { score: player === 'G' ? -Infinity : Infinity, idx: -1 };
+    for (let i = 0; i < 9; i++) {
+      if (b[i]) continue;
+      b[i] = player;
+      const r = minimax(b, other(player), depth + 1);
+      b[i] = null;
+      if (player === 'G' ? r.score > best.score : r.score < best.score) best = { score: r.score, idx: i };
+    }
+    return best;
+  }
+  function cpuPick() {
+    const empty = s.board.map((v, i) => v ? null : i).filter((v) => v !== null);
+    const random = () => empty[Math.floor(Math.random() * empty.length)];
+    if (s.level === 'easy') return random();
+    if (s.level === 'mid' && Math.random() < 0.45) return random();
+    return minimax(s.board.slice(), 'G', 0).idx;
+  }
+
+  function play(i) {
+    if (s.over || s.board[i]) return;
+    s.board[i] = s.turn;
+    const w = winnerOf(s.board);
+    if (w) { s.over = true; s.win = w; s.score[w.p]++; }
+    else if (full(s.board)) { s.over = true; s.score.D++; }
+    else s.turn = other(s.turn);
+    render();
+    maybeCpu();
+  }
+
+  function maybeCpu() {
+    clearTimeout(cpuTimer);
+    if (s.mode !== 'cpu' || s.over || s.turn !== 'G') { s.thinking = false; return; }
+    s.thinking = true; render();
+    cpuTimer = setTimeout(() => { s.thinking = false; play(cpuPick()); }, 520);
+  }
+
+  function newRound() {
+    clearTimeout(cpuTimer);
+    s.starter = other(s.starter);
+    s.board = Array(9).fill(null);
+    s.turn = s.starter; s.over = false; s.win = null; s.thinking = false;
+    render(); maybeCpu();
+  }
+  function fullReset() {
+    clearTimeout(cpuTimer);
+    s.score = { P: 0, G: 0, D: 0 };
+    s.starter = 'G'; // newRound flips it so the pumpkin starts
+    newRound();
+  }
+
+  function piece(p) {
+    return `<svg viewBox="0 0 100 100" aria-hidden="true"><use href="#${p === 'P' ? 'pumpkin' : 'ghost'}"/></svg>`;
+  }
+
+  function statusText() {
+    const cpu = s.mode === 'cpu';
+    if (s.win) {
+      if (cpu) return s.win.p === 'P' ? 'Wygrywasz! Dynia straszy najlepiej.' : 'Duch wygrywa. Buuu!';
+      return `${NAMES[s.win.p]} wygrywa!`;
+    }
+    if (s.over) return 'Remis. Cmentarz milczy.';
+    if (cpu) return s.thinking ? 'Duch się zastanawia…' : 'Twój ruch, Dyniu';
+    return `Ruch: ${NAMES[s.turn]}`;
+  }
+
+  function render() {
+    const lock = s.over || (s.mode === 'cpu' && s.turn === 'G');
+    const winCells = s.win ? s.win.line : [];
+    boardEl.innerHTML = s.board.map((v, i) => {
+      const r = Math.floor(i / 3) + 1, c = (i % 3) + 1;
+      const label = v ? `Pole ${r}, ${c}: ${NAMES[v]}` : `Pole ${r}, ${c}: puste`;
+      const cls = ['cell', v ? 'filled' : '', winCells.includes(i) ? 'win' : ''].join(' ');
+      return `<button type="button" class="${cls}" data-i="${i}" aria-label="${label}" ${v || lock ? 'disabled' : ''}>${v ? piece(v) : ''}</button>`;
+    }).join('');
+
+    if (s.win) {
+      const ctr = (i) => [50 + (i % 3) * 100, 50 + Math.floor(i / 3) * 100];
+      let [x1, y1] = ctr(s.win.line[0]), [x2, y2] = ctr(s.win.line[2]);
+      const dx = (x2 - x1) * 0.18, dy = (y2 - y1) * 0.18;
+      strikeEl.innerHTML = `<line x1="${x1 - dx}" y1="${y1 - dy}" x2="${x2 + dx}" y2="${y2 + dy}"/>`;
+    } else strikeEl.innerHTML = '';
+
+    statusEl.textContent = statusText();
+    statusEl.className = 'status' + (s.win ? (s.win.p === 'P' ? ' win-p' : ' win-g') : s.over ? ' draw' : '');
+
+    $('pts-p').textContent = s.score.P;
+    $('pts-g').textContent = s.score.G;
+    $('pts-d').textContent = s.score.D;
+    $('name-p').textContent = s.mode === 'cpu' ? 'Ty · Dynia' : 'Dynia';
+    $('name-g').textContent = s.mode === 'cpu' ? 'Komputer · Duch' : 'Duch';
+    $('side-p').classList.toggle('active', !s.over && s.turn === 'P');
+    $('side-g').classList.toggle('active', !s.over && s.turn === 'G');
+
+    document.querySelectorAll('[data-mode]').forEach((b) => b.setAttribute('aria-pressed', b.dataset.mode === s.mode));
+    document.querySelectorAll('[data-level]').forEach((b) => b.setAttribute('aria-pressed', b.dataset.level === s.level));
+    $('levels').hidden = s.mode !== 'cpu';
+  }
+
+  boardEl.addEventListener('click', (e) => {
+    const btn = e.target.closest('.cell');
+    if (!btn || btn.disabled) return;
+    play(+btn.dataset.i);
+  });
+  document.querySelectorAll('[data-mode]').forEach((b) => b.addEventListener('click', () => {
+    if (s.mode === b.dataset.mode) return;
+    s.mode = b.dataset.mode; fullReset();
+  }));
+  document.querySelectorAll('[data-level]').forEach((b) => b.addEventListener('click', () => {
+    if (s.level === b.dataset.level) return;
+    s.level = b.dataset.level; fullReset();
+  }));
+  $('again').addEventListener('click', newRound);
+  $('reset').addEventListener('click', fullReset);
+
+  function start(saved) {
+    if (saved && saved.board) s = Object.assign(s, saved, { thinking: false });
+    render(); maybeCpu();
+  }
+  window.claude?.hot?.snapshot?.(() => ({ ...s }));
+  window.claude?.hot?.ready ? window.claude.hot.ready(start) : start(window.claude?.hot?.data ?? {});
+})();
+</script>
+</body>
+</html>
